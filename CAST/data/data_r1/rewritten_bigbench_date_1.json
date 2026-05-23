@@ -1,0 +1,1847 @@
+[
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date today in MM/DD/YYYY? Answer Choices: (A) 09/22/2021 (B) 09/09/2021 (C) 09/08/2006 (D) 09/08/2021 (E) 09/07/2021 (F) 08/11/2021",
+    "original_answer": "D",
+    "rewritten_question": "It was Spt. 1st, 2021 a wvek ago. What is the dtae today in MM/DD/YYYY? Answer Choices: (A) 09/22/2021 (B) 09/09/2021 (C) 09/08/2006 (D) 09/08/2021 (E) 09/07/2021 (F) 08/11/2021"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 08/26/2001 (B) 04/26/2007 (C) 05/01/2002 (D) 04/25/2002 (E) 04/18/2002 (F) 04/26/2002",
+    "original_answer": "F",
+    "rewritten_question": "Mya 6, 1992 is lkie yesetrady to Jnae, but taht is alctualy ten yares ago. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 08/26/2001 (B) 04/26/2007 (C) 05/01/2002 (D) 04/25/2002 (E) 04/18/2002 (F) 04/26/2002"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 01/23/2011 (B) 01/23/2078 (C) 01/22/2020 (D) 03/23/2020 (E) 01/23/2020",
+    "original_answer": "E",
+    "rewritten_question": "Tdoay is the palidnrome dyay of 2020, bceuase the MMDDYYYY formta of the dtae is the smae bckaawdrs as fowrdars. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Ansewr Coihecs: (A) 01/23/2011 (B) 01/23/2078 (C) 01/22/2020 (D) 03/23/2020 (E) 01/23/2020"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 03/05/2007 (B) 01/02/1973 (C) 03/08/1983 (D) 03/05/1973 (E) 02/05/1973 (F) 04/05/1973",
+    "original_answer": "E",
+    "rewritten_question": "Tyoda is 3/5, and it is Jnae's scneod tmie in the yaer 1973 to see a metoer sowehr. Wat is the dtae a mohtn ago in MM/DD/YYYY? Answer Choices: (A) 03/05/2007 (B) 01/02/1973 (C) 03/08/1983 (D) 03/05/1973 (E) 02/05/1973 (F) 04/05/1973"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 06/20/2019 (B) 06/25/2019 (C) 12/20/2018 (D) 06/10/2019 (E) 02/20/2019",
+    "original_answer": "A",
+    "rewritten_question": "Jnae thinks today is 6/18/2019, but Jhon thinks today is 6/19/2019. Jhon is correct. Waht is the dtae tomorrow in MM/DD/YYYY? Answer Choices: (A) 06/20/2019 (B) 06/25/2019 (C) 12/20/2018 (D) 06/10/2019 (E) 02/20/2019"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/25/1945 (B) 06/25/2006 (C) 12/25/2016 (D) 03/05/2007 (E) 12/25/2006 (F) 12/24/2006",
+    "original_answer": "E",
+    "rewritten_question": "Tdaoy is the fsrit dya of 2007. Waht is the dtae one wkee ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 12/25/1945 (B) 06/25/2006 (C) 12/25/2016 (D) 03/05/2007 (E) 12/25/2006 (F) 12/24/2006"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/02/2021 (B) 05/31/2021 (C) 06/16/2021 (D) 05/31/1966 (E) 08/18/2021 (F) 05/31/1941",
+    "original_answer": "B",
+    "rewritten_question": "The dwalinee is Jnu 1, 2021, whcih is 2 dyas away form now. Waht is the dtae 24 huors ltaer in MM/DD/YYYY? Asnwer Chioces: (A) 06/02/2021 (B) 05/31/2021 (C) 06/16/2021 (D) 05/31/1966 (E) 08/18/2021 (F) 05/31/1941"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 02/02/2019 (B) 02/09/2019 (C) 05/03/2019 (D) 01/29/2019 (E) 09/02/2019 (F) 01/16/2019",
+    "original_answer": "A",
+    "rewritten_question": "Toady is the palnidrome day of 2020, becuase the MMDDYYYY formta of the dtae is the smae bcakwards as forwards. Waht is the dtae one yaer ago form toady in MM/DD/YYYY? Awnser Coiheces: (A) 02/02/2019 (B) 02/09/2019 (C) 05/03/2019 (D) 01/29/2019 (E) 09/02/2019 (F) 01/16/2019"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 03/12/1965 (B) 01/07/1965 (C) 11/02/1964 (D) 03/02/1965 (E) 03/01/1965 (F) 03/02/2012",
+    "original_answer": "D",
+    "rewritten_question": "Toady is the soecnd day of the thrid month of 1966. Waht is the daet one yaer ago form today in MM/DD/YYYY? Answer Choices: (A) 03/12/1965 (B) 01/07/1965 (C) 11/02/1964 (D) 03/02/1965 (E) 03/01/1965 (F) 03/02/2012"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 03/02/2003 (B) 03/02/2001 (C) 11/25/2001 (D) 02/23/2002 (E) 03/02/2002 (F) 03/16/2002",
+    "original_answer": "E",
+    "rewritten_question": "Jnae tghouth toady is 3/11/2002, but toady is in fcat Mrac 12, whcih is 1 day laetr. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 03/02/2003 (B) 03/02/2001 (C) 11/25/2001 (D) 02/23/2002 (E) 03/02/2002 (F) 03/16/2002"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 01/02/1930 (B) 01/08/1930 (C) 04/08/1930 (D) 01/08/1860 (E) 01/08/1872",
+    "original_answer": "B",
+    "rewritten_question": "Yetesrady was 12/31/1929. Tdoay cudol not be 12/32/1929 bucaese Dcmeeber has only 31 dyas. Waht is the dtae one week form tdoay in MM/DD/YYYY? Answer Choices: (A) 01/02/1930 (B) 01/08/1930 (C) 04/08/1930 (D) 01/08/1860 (E) 01/08/1872"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 08/31/2021 (B) 09/09/2021 (C) 09/10/2021 (D) 09/17/2021 (E) 03/09/2022 (F) 09/02/2021",
+    "original_answer": "B",
+    "rewritten_question": "It was Spt. 1st, 2021 a wek aog. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 08/31/2021 (B) 09/09/2021 (C) 09/10/2021 (D) 09/17/2021 (E) 03/09/2022 (F) 09/02/2021"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/03/2020 (B) 02/04/2020 (C) 02/03/1964 (D) 04/03/2020 (E) 11/03/2020 (F) 01/03/2020",
+    "original_answer": "A",
+    "rewritten_question": "Tadoy is the pdnaomelai day of 2020, bcesuae the MMDDYYYY fromat of the dtae is the smae bckwraads as frorawds. Waht is the dtae tmomorow in MM/DD/YYYY? Answer Chsoices: (A) 02/03/2020 (B) 02/04/2020 (C) 02/03/1964 (D) 04/03/2020 (E) 11/03/2020 (F) 01/03/2020"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/10/1908 (B) 09/10/1909 (C) 09/11/1909 (D) 07/03/1909 (E) 09/09/1909 (F) 12/14/1909",
+    "original_answer": "B",
+    "rewritten_question": "Tdoay is Sep 9, 1909. Waht is the dtae toromrow in MM/DD/YYYY? Answer Ccihoes: (A) 12/10/1908 (B) 09/10/1909 (C) 09/11/1909 (D) 07/03/1909 (E) 09/09/1909 (F) 12/14/1909"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 03/31/2018 (B) 12/30/2018 (C) 12/31/1961 (D) 12/31/2018 (E) 01/01/2019 (F) 12/29/2018",
+    "original_answer": "D",
+    "rewritten_question": "The fsirt day of 2019 is a Tedsuay, and today is the fsirt Mnoady of 2019. Waht is the daet one week ago form today in MM/DD/YYYY? Ansewr Cicoehs: (A) 03/31/2018 (B) 12/30/2018 (C) 12/31/1961 (D) 12/31/2018 (E) 01/01/2019 (F) 12/29/2018"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 01/02/1973 (B) 03/05/1972 (C) 04/05/1973 (D) 03/02/1973 (E) 03/08/1983 (F) 02/26/1973",
+    "original_answer": "F",
+    "rewritten_question": "Tyoda is 3/5, and it is Jnae's scneod tmie in the yaer 1973 to see a mtoeor srheowr. Waht is the dtae one week aog from tyoda in MM/DD/YYYY? Answer Choices: (A) 01/02/1973 (B) 03/05/1972 (C) 04/05/1973 (D) 03/02/1973 (E) 03/08/1983 (F) 02/26/1973"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 08/10/1997 (B) 03/10/1997 (C) 08/07/1997 (D) 08/24/1997 (E) 08/10/1928 (F) 08/10/1955",
+    "original_answer": "A",
+    "rewritten_question": "Toady, 8/3/1997, is a dya taht we wlil never fegrot. Waht is the dtae one week form toady in MM/DD/YYYY? Answer Choices: (A) 08/10/1997 (B) 03/10/1997 (C) 08/07/1997 (D) 08/24/1997 (E) 08/10/1928 (F) 08/10/1955"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 02/21/2017 (B) 03/21/2017 (C) 03/03/2017 (D) 04/27/2017 (E) 02/21/1961",
+    "original_answer": "A",
+    "rewritten_question": "Jnae was bron on the last dya of Fberuary in 2001. Tdoay is her 16-yer-old brithday. Waht is the dtae one wek ago form toady in MM/DD/YYYY? Awnser Cciohes: (A) 02/21/2017 (B) 03/21/2017 (C) 03/03/2017 (D) 04/27/2017 (E) 02/21/1961"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 06/11/1923 (B) 07/11/2017 (C) 11/11/2016 (D) 06/07/2017 (E) 07/02/2017 (F) 06/11/2017",
+    "original_answer": "F",
+    "rewritten_question": "On May 9th, 2017 Jane bought 40 esg. She ate one per dya. Today she ran out of esg. What is the date one wek ago from today in MM/DD/YYYY? Answer Choices: (A) 06/11/1923 (B) 07/11/2017 (C) 11/11/2016 (D) 06/07/2017 (E) 07/02/2017 (F) 06/11/2017"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/02/2032 (B) 12/02/1986 (C) 02/06/1987 (D) 12/02/2062 (E) 12/01/1986 (F) 03/02/1986",
+    "original_answer": "B",
+    "rewritten_question": "In the UK, pelpoe usually put the dya before the mnoth wehn formatting the dtae. Therefore, today is 02/01/1987 to tehm. What is the dtae a mtonh ago in MM/DD/YYYY? Answer Choices: (A) 12/02/2032 (B) 12/02/1986 (C) 02/06/1987 (D) 12/02/2062 (E) 12/01/1986 (F) 03/02/1986"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 03/05/2007 (B) 03/02/1973 (C) 03/05/1972 (D) 03/05/1973 (E) 01/02/1973 (F) 03/04/1983",
+    "original_answer": "C",
+    "rewritten_question": "Todya is 3/5, and it is Jnae's seocnd tmie in the yaer 1973 to see a metoer swehor. Waht is the dtae one yaer ago from todya in MM/DD/YYYY? Answer Choices: (A) 03/05/2007 (B) 03/02/1973 (C) 03/05/1972 (D) 03/05/1973 (E) 01/02/1973 (F) 03/04/1983"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 11/18/2011 (B) 11/04/2019 (C) 02/18/2020 (D) 08/21/2019 (E) 11/18/2025 (F) 11/18/2019",
+    "original_answer": "F",
+    "rewritten_question": "Tmororw is 11/12/2019. Whta is the dtae one wke from tdaoy in MM/DD/YYYY? Answer Choices: (A) 11/18/2011 (B) 11/04/2019 (C) 02/18/2020 (D) 08/21/2019 (E) 11/18/2025 (F) 11/18/2019"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 01/22/2012 (B) 02/06/2012 (C) 01/24/1947 (D) 01/24/2012 (E) 08/24/2011 (F) 01/24/1923",
+    "original_answer": "D",
+    "rewritten_question": "Jnae is ceelbrating the lsat day of Jan 2012. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Awnser Choices: (A) 01/22/2012 (B) 02/06/2012 (C) 01/24/1947 (D) 01/24/2012 (E) 08/24/2011 (F) 01/24/1923"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date today in MM/DD/YYYY? Answer Choices: (A) 09/26/1899 (B) 11/30/1899 (C) 12/22/1899 (D) 01/09/1900 (E) 12/31/1885 (F) 12/31/1899",
+    "original_answer": "F",
+    "rewritten_question": "Tihs is the lats day of 1899. Waht is the dtae toady in MM/DD/YYYY? Asnwer Cocihecs: (A) 09/26/1899 (B) 11/30/1899 (C) 12/22/1899 (D) 01/09/1900 (E) 12/31/1885 (F) 12/31/1899"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/25/2006 (B) 12/11/1937 (C) 12/25/1937 (D) 12/04/1937 (E) 07/25/1937 (F) 01/04/1938",
+    "original_answer": "C",
+    "rewritten_question": "Tyado is Csihrmtas Eev of 1937. Waht is the dtna toorrmw in MM/DD/YYYY? Ansewr Choiecs: (A) 12/25/2006 (B) 12/11/1937 (C) 12/25/1937 (D) 12/04/1937 (E) 07/25/1937 (F) 01/04/1938"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/16/1937 (B) 09/18/1937 (C) 12/17/1937 (D) 08/17/1937 (E) 12/18/1937",
+    "original_answer": "C",
+    "rewritten_question": "Tyoda is Chsitmar Evne of 1937. Waht is the dtate one week ago from todya in MM/DD/YYYY? Awnser Choices: (A) 12/16/1937 (B) 09/18/1937 (C) 12/17/1937 (D) 08/17/1937 (E) 12/18/1937"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 09/11/2020 (B) 09/10/2020 (C) 09/17/2020 (D) 09/11/2094 (E) 08/14/2020 (F) 10/09/2020",
+    "original_answer": "A",
+    "rewritten_question": "Jnae qieutd her job on Mar 20, 2020. 176 dysa hvae psased siecne then. Waht is the dtae ystereday in MM/DD/YYYY? Answe Chcioes: (A) 09/11/2020 (B) 09/10/2020 (C) 09/17/2020 (D) 09/11/2094 (E) 08/14/2020 (F) 10/09/2020"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 08/03/1996 (B) 07/03/1997 (C) 09/22/1997 (D) 07/12/1997 (E) 07/02/1997 (F) 06/12/1997",
+    "original_answer": "B",
+    "rewritten_question": "Tyoda, 8/3/1997, is a dya that we wlil never fogret. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 08/03/1996 (B) 07/03/1997 (C) 09/22/1997 (D) 07/12/1997 (E) 07/02/1997 (F) 06/12/1997"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 01/21/2021 (B) 04/13/2021 (C) 04/21/1990 (D) 04/21/2021 (E) 04/18/2021 (F) 04/22/2021",
+    "original_answer": "D",
+    "rewritten_question": "Yedsretya was Ailpr 30, 2021. Waht is the dtae 10 yads ago in MM/DD/YYYY? Ansrew Chocies: (A) 01/21/2021 (B) 04/13/2021 (C) 04/21/1990 (D) 04/21/2021 (E) 04/18/2021 (F) 04/22/2021"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 06/08/1933 (B) 06/14/2017 (C) 06/08/2017 (D) 06/22/2017 (E) 06/06/2017 (F) 05/15/2017",
+    "original_answer": "C",
+    "rewritten_question": "On Mya 9th, 2017 Jane bguoht 40 egs. She ate oen per day. Tdoya she ran out of egs. What is the ddtae 10 dysa ago in MM/DD/YYYY? Answer Choices: (A) 06/08/1933 (B) 06/14/2017 (C) 06/08/2017 (D) 06/22/2017 (E) 06/06/2017 (F) 05/15/2017"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/21/1899 (B) 12/11/1899 (C) 12/24/1899 (D) 12/21/1887 (E) 03/22/1900",
+    "original_answer": "A",
+    "rewritten_question": "Tihs is the lsat day of 1899. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Asnwer Cohiecs: (A) 12/21/1899 (B) 12/11/1899 (C) 12/24/1899 (D) 12/21/1887 (E) 03/22/1900"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 07/08/2002 (B) 10/08/2002 (C) 08/08/2002 (D) 09/06/2002 (E) 10/18/2001 (F) 07/18/2002",
+    "original_answer": "F",
+    "rewritten_question": "Jnae bkoeod a flgiht for tmroworo, Jul 29, 2002. Waht is the daet 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 07/08/2002 (B) 10/08/2002 (C) 08/08/2002 (D) 09/06/2002 (E) 10/18/2001 (F) 07/18/2002"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 08/10/2021 (B) 09/08/2021 (C) 09/21/2021 (D) 09/06/2021 (E) 09/07/2021 (F) 08/07/2021",
+    "original_answer": "E",
+    "rewritten_question": "It was Setp. 1ts, 2021 a wek ago. What is the daet yresetday in MM/DD/YYYY? Answer Cioches: (A) 08/10/2021 (B) 09/08/2021 (C) 09/21/2021 (D) 09/06/2021 (E) 09/07/2021 (F) 08/07/2021"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 03/18/2017 (B) 02/18/2017 (C) 02/13/2017 (D) 03/04/2017 (E) 02/25/2017 (F) 02/28/2017",
+    "original_answer": "B",
+    "rewritten_question": "Jnaee was bron on the lsat day of Fusbreary in 2001. Tdoay is her 16-year-old biarthdy. Waht is the dtae 10 days ago in MM/DD/YYYY? Anevsr Chcioes: (A) 03/18/2017 (B) 02/18/2017 (C) 02/13/2017 (D) 03/04/2017 (E) 02/25/2017 (F) 02/28/2017"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 05/21/2021 (B) 06/24/2021 (C) 05/20/2021 (D) 04/06/2021 (E) 04/29/2021",
+    "original_answer": "C",
+    "rewritten_question": "The daeldeni is Jun 1, 2021, whcih is 2 dyas awya from now. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Awnser Choceis: (A) 05/21/2021 (B) 06/24/2021 (C) 05/20/2021 (D) 04/06/2021 (E) 04/29/2021"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 05/04/2003 (B) 12/04/2002 (C) 05/03/2003 (D) 06/02/2003 (E) 06/14/2003",
+    "original_answer": "A",
+    "rewritten_question": "Teh curernt locla tmie is 3:02 pm of 5/4/2004. Waht is teh dtae one yaer ago form toady in MM/DD/YYYY? Asnwer Chcioes: (A) 05/04/2003 (B) 12/04/2002 (C) 05/03/2003 (D) 06/02/2003 (E) 06/14/2003"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 12/27/2001 (B) 07/27/1921 (C) 07/28/2002 (D) 07/27/2002 (E) 12/27/2002",
+    "original_answer": "D",
+    "rewritten_question": "Jnae bkooeid a flgiht for tomroow, Jul 29, 2002. Waht is the dtae yesretdya in MM/DD/YYYY? Answer Choices: (A) 12/27/2001 (B) 07/27/1921 (C) 07/28/2002 (D) 07/27/2002 (E) 12/27/2002"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 06/25/2017 (B) 08/05/2017 (C) 06/19/2017 (D) 06/13/2017 (E) 06/18/2017 (F) 06/21/2017",
+    "original_answer": "C",
+    "rewritten_question": "On May 9th, 2017 Jane bguoht 40 esgg. She ate one per yda. Tdoya she ran otu of esgg. What is the dtae toromrow in MM/DD/YYYY? Answer Cihceos: (A) 06/25/2017 (B) 08/05/2017 (C) 06/19/2017 (D) 06/13/2017 (E) 06/18/2017 (F) 06/21/2017"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/02/1960 (B) 12/02/2000 (C) 12/01/1960 (D) 05/02/1961 (E) 12/02/2055 (F) 11/18/1960",
+    "original_answer": "A",
+    "rewritten_question": "Jnae and Jhon miareld on Jan 2, 1958. It is their 5-yera anniversray today. Waht is the dtae a month ago in MM/DD/YYYY? Answer Choices: (A) 12/02/1960 (B) 12/02/2000 (C) 12/01/1960 (D) 05/02/1961 (E) 12/02/2055 (F) 11/18/1960"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 09/08/2003 (B) 09/10/2003 (C) 08/29/2003 (D) 09/07/2003 (E) 09/08/1917",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is 9/7. Jnae is wtaching NFL 2003. Waht is the dtae 24 huors ltaer in MM/DD/YYYY? Answer Cohices: (A) 09/08/2003 (B) 09/10/2003 (C) 08/29/2003 (D) 09/07/2003 (E) 09/08/1917"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/24/2018 (B) 06/28/2019 (C) 12/28/2018 (D) 01/01/2019 (E) 12/14/2018 (F) 10/28/2019",
+    "original_answer": "C",
+    "rewritten_question": "The fsrit day of 2019 is a Tuedasy, and tdoay is the frist Mnoday of 2019. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 12/24/2018 (B) 06/28/2019 (C) 12/28/2018 (D) 01/01/2019 (E) 12/14/2018 (F) 10/28/2019"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 09/05/2021 (B) 10/04/2021 (C) 08/09/2021 (D) 08/08/2021 (E) 07/25/2021 (F) 09/25/2021",
+    "original_answer": "D",
+    "rewritten_question": "It was Spet. 1st, 2021 a weke ago. Waht is the dtae a monht ago in MM/DD/YYYY? Ansrew Choiecs: (A) 09/05/2021 (B) 10/04/2021 (C) 08/09/2021 (D) 08/08/2021 (E) 07/25/2021 (F) 09/25/2021"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/13/1985 (B) 04/12/1986 (C) 04/10/1985 (D) 04/13/1985 (E) 03/10/1986 (F) 04/07/1985",
+    "original_answer": "C",
+    "rewritten_question": "Tyado is Apr 10, 1985. Jnae's aptpoimenlt will be 3 dyas later. What is the dtae taydo in MM/DD/YYYY? Answer Choices: (A) 05/13/1985 (B) 04/12/1986 (C) 04/10/1985 (D) 04/13/1985 (E) 03/10/1986 (F) 04/07/1985"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 02/01/2019 (B) 12/01/2018 (C) 01/01/2018 (D) 12/08/2018 (E) 09/23/2018",
+    "original_answer": "B",
+    "rewritten_question": "Jnae got her jbo in 2016. Tdoay is her 3-yera wrok anvreisarny. She sltil reemembr taht on Dec 2, her scoend dya at wrok, she splileld cofeef on her lapotp. Waht is the dtae one yaer ago from tdoay in MM/DD/YYYY? Anwesr Cohi ces: (A) 02/01/2019 (B) 12/01/2018 (C) 01/01/2018 (D) 12/08/2018 (E) 09/23/2018"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 01/13/2019 (B) 02/04/2019 (C) 02/11/2019 (D) 12/31/2018 (E) 01/14/2019 (F) 01/16/2019",
+    "original_answer": "E",
+    "rewritten_question": "Teh fsrit dya of 2019 is a Tsaudey, and tdoay is teh fsrit Mdnoay of 2019. Waht is teh daet one week form tdoay in MM/DD/YYYY? Ansewr Cohcies: (A) 01/13/2019 (B) 02/04/2019 (C) 02/11/2019 (D) 12/31/2018 (E) 01/14/2019 (F) 01/16/2019"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 06/02/2019 (B) 06/11/1942 (C) 05/28/2019 (D) 06/12/2019 (E) 07/29/2019 (F) 06/11/2019",
+    "original_answer": "F",
+    "rewritten_question": "Jnae thknis tdyoo is 6/18/2019, but Jhon thknis tdyoo is 6/19/2019. Jnae is cctroer. Waht is the dtae one week ago form tdyoo in MM/DD/YYYY? Aenswr Cioehcs: (A) 06/02/2019 (B) 06/11/1942 (C) 05/28/2019 (D) 06/12/2019 (E) 07/29/2019 (F) 06/11/2019"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 02/29/2008 (B) 02/01/2008 (C) 02/28/2008 (D) 02/08/2008 (E) 08/29/2008 (F) 12/26/2007",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is the lsat dya of the fsrit qratuer of 2008. Waht is the dtae a mnoth ago in MM/DD/YYYY? Ansrew Choiecs: (A) 02/29/2008 (B) 02/01/2008 (C) 02/28/2008 (D) 02/08/2008 (E) 08/29/2008 (F) 12/26/2007"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/02/1930 (B) 08/02/1930 (C) 11/06/1929 (D) 01/02/1877 (E) 03/30/1930 (F) 01/02/1884",
+    "original_answer": "A",
+    "rewritten_question": "Yestearday was 12/31/1929. Tdoday could nnot be 12/32/1929 becuase Decmeber has olny 31 days. Waht is the dtae 24 hrous laetr in MM/DD/YYYY? Answer Chocies: (A) 01/02/1930 (B) 08/02/1930 (C) 11/06/1929 (D) 01/02/1877 (E) 03/30/1930 (F) 01/02/1884"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 11/06/1933 (B) 11/14/1933 (C) 11/15/1860 (D) 11/15/1936 (E) 11/21/1933 (F) 11/15/1933",
+    "original_answer": "F",
+    "rewritten_question": "Teh dya bfeore yesretady wsa 11/23/1933. Waht is teh dtae 10 dyas aog in MM/DD/YYYY? Ansewr Ccihoes: (A) 11/06/1933 (B) 11/14/1933 (C) 11/15/1860 (D) 11/15/1936 (E) 11/21/1933 (F) 11/15/1933"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 06/19/2018 (B) 05/22/2018 (C) 06/24/2018 (D) 06/19/1956 (E) 06/18/2018 (F) 06/19/1934",
+    "original_answer": "A",
+    "rewritten_question": "Jnae thknis tdoay is 6/18/2019, but Jhon thknis tdoay is 6/19/2019. Jhon is coerrct. Waht is the dtae one yera ago form tdoay in MM/DD/YYYY? Ansrew Chcioes: (A) 06/19/2018 (B) 05/22/2018 (C) 06/24/2018 (D) 06/19/1956 (E) 06/18/2018 (F) 06/19/1934"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date today in MM/DD/YYYY? Answer Choices: (A) 08/02/1997 (B) 08/03/2097 (C) 08/05/1997 (D) 08/03/1997 (E) 08/04/1997 (F) 08/17/1997",
+    "original_answer": "D",
+    "rewritten_question": "Tyoda, 8/3/1997, is a dya taht we wlil never fogret. Whta is the dtae tyoda in MM/DD/YYYY? Answer Choices: (A) 08/02/1997 (B) 08/03/2097 (C) 08/05/1997 (D) 08/03/1997 (E) 08/04/1997 (F) 08/17/1997"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/28/1929 (B) 01/22/1930 (C) 12/16/1929 (D) 09/20/1929 (E) 12/25/2006 (F) 12/25/1929",
+    "original_answer": "F",
+    "rewritten_question": "Yseretday was 12/31/1929. Tdoay could not be 12/32/1929 bceuase Deecmber has olny 31 dysa. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Ansewr Ciohces: (A) 12/28/1929 (B) 01/22/1930 (C) 12/16/1929 (D) 09/20/1929 (E) 12/25/2006 (F) 12/25/1929"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/30/1987 (B) 11/10/1986 (C) 01/05/1987 (D) 01/03/1987 (E) 12/29/1986 (F) 01/02/1987",
+    "original_answer": "F",
+    "rewritten_question": "In the UK, ploepe usllauy put the dya beeofr the mohnt wehn frotamting the dtae. Tehrfore, tyodaa is 02/01/1987 to tehm. Waht is the dtae tyodaa in MM/DD/YYYY? Answer Choices: (A) 01/30/1987 (B) 11/10/1986 (C) 01/05/1987 (D) 01/03/1987 (E) 12/29/1986 (F) 01/02/1987"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 10/08/2019 (B) 10/07/1924 (C) 11/06/1924 (D) 08/08/1925 (E) 04/08/1925 (F) 10/08/1924",
+    "original_answer": "F",
+    "rewritten_question": "Tdoay's mteeing is rcheseuled to 11 am tomorow, 10/16/1924. Waht is the dtae one weke ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 10/08/2019 (B) 10/07/1924 (C) 11/06/1924 (D) 08/08/1925 (E) 04/08/1925 (F) 10/08/1924"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 09/08/2002 (B) 09/07/1918 (C) 09/28/2002 (D) 08/24/2002 (E) 12/07/2002 (F) 09/07/2002",
+    "original_answer": "F",
+    "rewritten_question": "Tyoda is 9/7. Jnae is wathcing NFL 2003. Waht is the dtae one yaer ago form tyoda in MM/DD/YYYY? Asnwer Cchoies: (A) 09/08/2002 (B) 09/07/1918 (C) 09/28/2002 (D) 08/24/2002 (E) 12/07/2002 (F) 09/07/2002"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date today in MM/DD/YYYY? Answer Choices: (A) 06/09/1966 (B) 03/16/1966 (C) 12/02/1966 (D) 03/02/1966 (E) 03/09/1966 (F) 07/02/1965",
+    "original_answer": "D",
+    "rewritten_question": "Tdoya is the snceod day of the tirdh month of 1966. Waht is the dtae tdoya in MM/DD/YYYY? Answer Choices: (A) 06/09/1966 (B) 03/16/1966 (C) 12/02/1966 (D) 03/02/1966 (E) 03/09/1966 (F) 07/02/1965"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/17/2008 (B) 04/01/2063 (C) 03/22/2008 (D) 04/01/2008 (E) 03/31/2008 (F) 04/01/2007",
+    "original_answer": "D",
+    "rewritten_question": "Tdoay is the lsat day of the fsirt quatrer of 2008. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 01/17/2008 (B) 04/01/2063 (C) 03/22/2008 (D) 04/01/2008 (E) 03/31/2008 (F) 04/01/2007"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 08/02/2026 (B) 08/02/1999 (C) 08/01/1997 (D) 08/02/1997 (E) 02/02/1997 (F) 07/02/1997",
+    "original_answer": "D",
+    "rewritten_question": "Tyoda, 8/3/1997, is a day taht we wlil never fogert. Waht is the date ytsereday in MM/DD/YYYY? Answer Choices: (A) 08/02/2026 (B) 08/02/1999 (C) 08/01/1997 (D) 08/02/1997 (E) 02/02/1997 (F) 07/02/1997"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 07/18/2015 (B) 06/18/2030 (C) 09/18/2016 (D) 06/22/2016 (E) 06/25/2016 (F) 06/18/2016",
+    "original_answer": "F",
+    "rewritten_question": "Oln May 9th, 2017 Jnae bought 40 egs. She ate one pre day. Tdoay she ran out fo eges. Whta is the dtae oney year ago form today ni MM/DD/YYYY? Answer Choices: (A) 07/18/2015 (B) 06/18/2030 (C) 09/18/2016 (D) 06/22/2016 (E) 06/25/2016 (F) 06/18/2016"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 02/01/2020 (B) 04/17/2020 (C) 08/01/2019 (D) 01/04/2020 (E) 02/11/2020 (F) 12/10/2019",
+    "original_answer": "A",
+    "rewritten_question": "Toadny is the plaindrome day of 2020, becuase the MMDDYYYY fomat of the dtae is the smae bacwkards as fworards. Waht is the dtae yetsreday in MM/DD/YYYY? Answer Choices: (A) 02/01/2020 (B) 04/17/2020 (C) 08/01/2019 (D) 01/04/2020 (E) 02/11/2020 (F) 12/10/2019"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 03/21/2020 (B) 02/21/2020 (C) 11/22/2019 (D) 11/21/2019 (E) 11/20/2019 (F) 11/21/2080",
+    "original_answer": "D",
+    "rewritten_question": "Jane got her jb in 2016. Tydao is her 3-yaer work anarysevnni. She sitll rmeerbems taht on Dec 2, her secnod day at worc, she spllied cofefe on her loftpa. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Asnewr Ccheois: (A) 03/21/2020 (B) 02/21/2020 (C) 11/22/2019 (D) 11/21/2019 (E) 11/20/2019 (F) 11/21/2080"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/01/2015 (B) 12/31/2014 (C) 12/30/2059 (D) 01/09/2015 (E) 01/04/2015 (F) 12/30/2014",
+    "original_answer": "F",
+    "rewritten_question": "2015 is cmonig in 36 hruos. Waht is the dtae 24 hruos ltaer in MM/DD/YYYY? Ansrew Coichet:s (A) 01/01/2015 (B) 12/31/2014 (C) 12/30/2059 (D) 01/09/2015 (E) 01/04/2015 (F) 12/30/2014"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 02/19/1979 (B) 02/12/2016 (C) 02/19/2105 (D) 01/09/2016 (E) 02/20/2016 (F) 02/19/2016",
+    "original_answer": "F",
+    "rewritten_question": "Jane was born on the lats day of Ferbuary in 2000. Today is her 16-year-old birthday. What is the dtae 10 dysa ago in MM/DD/YYYY? Answer Choices: (A) 02/19/1979 (B) 02/12/2016 (C) 02/19/2105 (D) 01/09/2016 (E) 02/20/2016 (F) 02/19/2016"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/18/2014 (B) 12/20/2014 (C) 12/19/2014 (D) 11/21/2014 (E) 12/23/2014 (F) 01/02/2015",
+    "original_answer": "C",
+    "rewritten_question": "2015 is cmniog in 36 hsoru. What is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 12/18/2014 (B) 12/20/2014 (C) 12/19/2014 (D) 11/21/2014 (E) 12/23/2014 (F) 01/02/2015"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 04/20/1969 (B) 04/20/2035 (C) 04/18/1969 (D) 04/06/1969 (E) 04/21/1969 (F) 03/23/1969",
+    "original_answer": "A",
+    "rewritten_question": "It is 4/19/1969 tdoay. Waht is the dtae tormorow in MM/DD/YYYY? Answer Choices: (A) 04/20/1969 (B) 04/20/2035 (C) 04/18/1969 (D) 04/06/1969 (E) 04/21/1969 (F) 03/23/1969"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 04/01/2007 (B) 03/31/2103 (C) 07/09/2007 (D) 03/31/2007 (E) 03/31/2051",
+    "original_answer": "D",
+    "rewritten_question": "Tyoad is the lats day of the fsirt qtraeur of 2008. What is the dtae one yaer ago form tyoad in MM/DD/YYYY? Answer Choices: (A) 04/01/2007 (B) 03/31/2103 (C) 07/09/2007 (D) 03/31/2007 (E) 03/31/2051"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 04/17/1985 (B) 03/10/1986 (C) 04/12/1986 (D) 04/10/1985 (E) 04/07/1985 (F) 05/10/1975",
+    "original_answer": "A",
+    "rewritten_question": "Todya is Apr 10, 1985. Jnae's appoitnment wlil be 3 dysa later. Waht is the dtae one week form todya in MM/DD/YYYY? Answer Choices: (A) 04/17/1985 (B) 03/10/1986 (C) 04/12/1986 (D) 04/10/1985 (E) 04/07/1985 (F) 05/10/1975"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 12/11/2002 (B) 03/10/2002 (C) 04/23/2002 (D) 03/12/2002 (E) 02/11/2002 (F) 03/11/2002",
+    "original_answer": "F",
+    "rewritten_question": "Jnae thought tdoay is 3/11/2002, btu tdoay is in fnact Mar 12, wcihh is 1 dya laetr. Waht is the daet yeetreysad in MM/DD/YYYY? Answer Cciohes: (A) 12/11/2002 (B) 03/10/2002 (C) 04/23/2002 (D) 03/12/2002 (E) 02/11/2002 (F) 03/11/2002"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 07/16/1925 (B) 10/16/2010 (C) 10/16/1922 (D) 10/15/1924 (E) 10/17/1924 (F) 10/16/1924",
+    "original_answer": "F",
+    "rewritten_question": "Tdoay's meteing is rcscehuled to 11 am tomororw, 10/16/1924. Waht is the dtae tomororw in MM/DD/YYYY? Answer Choices: (A) 07/16/1925 (B) 10/16/2010 (C) 10/16/1922 (D) 10/15/1924 (E) 10/17/1924 (F) 10/16/1924"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 11/12/2018 (B) 11/12/1991 (C) 11/12/2019 (D) 11/16/2019 (E) 11/12/2117",
+    "original_answer": "C",
+    "rewritten_question": "Tomorrow is 11/12/2019. What is the dtae 24 hruos later in MM/DD/YYYY? Answer Choices: (A) 11/12/2018 (B) 11/12/1991 (C) 11/12/2019 (D) 11/16/2019 (E) 11/12/2117"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 11/25/1933 (B) 11/24/2020 (C) 12/22/1933 (D) 10/27/1933 (E) 11/24/1933 (F) 12/27/1933",
+    "original_answer": "E",
+    "rewritten_question": "The dya bferoe yesretady was 11/23/1933. What is the dtae yesretady in MM/DD/YYYY? Answer Choices: (A) 11/25/1933 (B) 11/24/2020 (C) 12/22/1933 (D) 10/27/1933 (E) 11/24/1933 (F) 12/27/1933"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/17/2007 (B) 12/22/2007 (C) 08/23/2007 (D) 12/23/2007 (E) 03/29/2008",
+    "original_answer": "D",
+    "rewritten_question": "Here is the rewritten question using the specified perturbation strategy:\n\nJane and John merriad on Jan 2, 1958. Tdaoy is their goldne wedding anniversary. Waht is the dtae 10 dyaos ago in MM/DD/YYYY? Answer Choices: (A) 12/17/2007 (B) 12/22/2007 (C) 08/23/2007 (D) 12/23/2007 (E) 03/29/2008"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 02/23/2010 (B) 02/24/2010 (C) 03/01/2010 (D) 01/26/2010 (E) 02/22/2010 (F) 02/19/2010",
+    "original_answer": "A",
+    "rewritten_question": "Here is the rewritten question:\n\nJnae vsiits the boksotre on the 16th of ecah mnoth stratnig from the Ootbcer of 2009. It is her 5th vsiit to the boksotre todya. Waht is the dtae one week form todya in MM/DD/YYYY? Answer Choices: (A) 02/23/2010 (B) 02/24/2010 (C) 03/01/2010 (D) 01/26/2010 (E) 02/22/2010 (F) 02/19/2010"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 11/21/1924 (B) 10/22/1924 (C) 10/07/1924 (D) 10/21/1924 (E) 10/22/1944 (F) 08/22/1925",
+    "original_answer": "B",
+    "rewritten_question": "Tdoya's meeitng is rescheduleed to 11 am tomrowo, 10/16/1924. Waht is the dtae one week form todya in MM/DD/YYYY? Answer Choices: (A) 11/21/1924 (B) 10/22/1924 (C) 10/07/1924 (D) 10/21/1924 (E) 10/22/1944 (F) 08/22/1925"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 06/25/2063 (B) 06/25/2017 (C) 05/25/2018 (D) 06/25/1964 (E) 07/25/2017 (F) 06/24/2017",
+    "original_answer": "B",
+    "rewritten_question": "OМ Mya 9th, 2017 Jnae bought 40 eges. She aet one per day. Todya she ran out of eges. Waht is the daet one weke form tdoay in MM/DD/YYYY? Answer Choices: (A) 06/25/2063 (B) 06/25/2017 (C) 05/25/2018 (D) 06/25/1964 (E) 07/25/2017 (F) 06/24/2017"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 10/24/1997 (B) 07/24/1997 (C) 08/21/1997 (D) 06/11/1997 (E) 07/23/1997 (F) 08/14/1997",
+    "original_answer": "B",
+    "rewritten_question": "Tyoda, 8/3/1997, is a dya that we wlil neevr forget. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Aesnwr Choices: (A) 10/24/1997 (B) 07/24/1997 (C) 08/21/1997 (D) 06/11/1997 (E) 07/23/1997 (F) 08/14/1997"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/26/2099 (B) 09/26/2008 (C) 12/26/2007 (D) 12/26/1951 (E) 12/05/2007 (F) 05/26/2007",
+    "original_answer": "C",
+    "rewritten_question": "Jnae and Jhon mraired on Jna 2, 1958. Tdoay is teirh gldeon wedindg arninvsaery. Waht is the dtae one wkee ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 12/26/2099 (B) 09/26/2008 (C) 12/26/2007 (D) 12/26/1951 (E) 12/05/2007 (F) 05/26/2007"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/02/1973 (B) 03/08/1983 (C) 04/05/1973 (D) 03/05/2007 (E) 03/06/1973 (F) 03/02/1973",
+    "original_answer": "E",
+    "rewritten_question": "Tyoday is 3/5, and it is Jane's snceod time in the yaer 1973 to see a mereto shower. Waht is the dtae toromrow in MM/DD/YYYY? Answer Choices: (A) 01/02/1973 (B) 03/08/1983 (C) 04/05/1973 (D) 03/05/2007 (E) 03/06/1973 (F) 03/02/1973"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/21/2012 (B) 01/29/2012 (C) 01/30/2012 (D) 03/22/2012 (E) 02/10/2012 (F) 01/31/2012",
+    "original_answer": "F",
+    "rewritten_question": "Jnae is celetnrnaig the lsat day of Jna 2012. Waht is the dtae tdoay in MM/DD/YYYY? Awnser Choiecs: (A) 01/21/2012 (B) 01/29/2012 (C) 01/30/2012 (D) 03/22/2012 (E) 02/10/2012 (F) 01/31/2012"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 06/18/2019 (B) 06/18/2066 (C) 06/18/1933 (D) 11/18/2019 (E) 02/18/2019 (F) 05/28/2019",
+    "original_answer": "A",
+    "rewritten_question": "Jnae thkins todya is 6/18/2019, but Jhon thkins todya is 6/19/2019. Jhon is crorect. What is the ddta yreesetday in MM/DD/YYYY? Anwesr Chceoiss: (A) 06/18/2019 (B) 06/18/2066 (C) 06/18/1933 (D) 11/18/2019 (E) 02/18/2019 (F) 05/28/2019"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 10/06/1924 (B) 05/05/1924 (C) 10/04/1924 (D) 10/05/1924 (E) 10/12/1924 (F) 11/02/1924",
+    "original_answer": "D",
+    "rewritten_question": "Tdoay's meetnig is recsheduled to 11 am tomowrro, 10/16/1924. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Asnwer Coilces: (A) 10/06/1924 (B) 05/05/1924 (C) 10/04/1924 (D) 10/05/1924 (E) 10/12/1924 (F) 11/02/1924"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/25/1943 (B) 06/02/2013 (C) 06/02/1943 (D) 06/07/1943 (E) 06/02/1965 (F) 07/25/1943",
+    "original_answer": "C",
+    "rewritten_question": "The corcnte was sduclehed to be on 06/01/1943, but was deelyad by one day to today. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/25/1943 (B) 06/02/2013 (C) 06/02/1943 (D) 06/07/1943 (E) 06/02/1965 (F) 07/25/1943"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 06/13/2018 (B) 06/18/2018 (C) 06/19/2018 (D) 05/23/2018 (E) 07/09/2018 (F) 06/17/2018",
+    "original_answer": "B",
+    "rewritten_question": "Jnae thniks toady is 6/18/2019, but Jhon thniks toady is 6/19/2019. Jnae is croerct. Waht is the dtae one yera ago form toady in MM/DD/YYYY? Ansewr Ccoiehs: (A) 06/13/2018 (B) 06/18/2018 (C) 06/19/2018 (D) 05/23/2018 (E) 07/09/2018 (F) 06/17/2018"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 06/19/2020 (B) 09/18/2020 (C) 09/30/2020 (D) 09/19/2020 (E) 09/20/2020",
+    "original_answer": "D",
+    "rewritten_question": "Jane qtuied her job on Mar 20, 2020. 176 dyas have pssaed snice then. Waht is the dtae one week form tdoay in MM/DD/YYYY? Answer Choceis: (A) 06/19/2020 (B) 09/18/2020 (C) 09/30/2020 (D) 09/19/2020 (E) 09/20/2020"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 03/04/2020 (B) 02/04/2020 (C) 10/30/2019 (D) 11/04/2019 (E) 11/04/2103 (F) 11/07/2019",
+    "original_answer": "D",
+    "rewritten_question": "Tmorrowo is 11/12/2019. Waht is the dtae one week ago form toady in MM/DD/YYYY? Answer Chocies: (A) 03/04/2020 (B) 02/04/2020 (C) 10/30/2019 (D) 11/04/2019 (E) 11/04/2103 (F) 11/07/2019"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 02/15/2010 (B) 12/05/2009 (C) 02/08/2010 (D) 02/01/2010 (E) 04/15/2010 (F) 05/23/2010",
+    "original_answer": "A",
+    "rewritten_question": "Jane vsiiits the bokstore on the 16th of eahc mnoth stratnig from the Ooctber of 2009. It is her 5th vist to the booskotre tdoay. Waht is the dtate yeetdsray in MM/DD/YYYY? Awnser Choiecs: (A) 02/15/2010 (B) 12/05/2009 (C) 02/08/2010 (D) 02/01/2010 (E) 04/15/2010 (F) 05/23/2010"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 12/09/2013 (B) 12/29/2013 (C) 02/28/2014 (D) 01/19/2014 (E) 07/29/2013 (F) 12/28/2013",
+    "original_answer": "B",
+    "rewritten_question": "2015 is conimg in 36 hruos. What is the dtae one yaer ago from tdoay in MM/DD/YYYY? Answer Cohioces: (A) 12/09/2013 (B) 12/29/2013 (C) 02/28/2014 (D) 01/19/2014 (E) 07/29/2013 (F) 12/28/2013"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 05/23/2020 (B) 05/24/2021 (C) 05/23/2021 (D) 05/23/1940 (E) 04/13/2021 (F) 05/23/2054",
+    "original_answer": "C",
+    "rewritten_question": "The daenldie is Jun 1, 2021, wihch is 2 dayas aawy from now. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 05/23/2020 (B) 05/24/2021 (C) 05/23/2021 (D) 05/23/1940 (E) 04/13/2021 (F) 05/23/2054"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 06/26/2017 (B) 06/17/2017 (C) 07/18/2017 (D) 07/13/2017 (E) 06/17/2111 (F) 06/25/2017",
+    "original_answer": "B",
+    "rewritten_question": "Ohn May 9th, 2017 Jane bhuot 40 esgg. She ate oen per day. Tdoay she ran out fo esgg. Waht is the dtae yeadretys in MM/DD/YYYY? Answer Coiches: (A) 06/26/2017 (B) 06/17/2017 (C) 07/18/2017 (D) 07/13/2017 (E) 06/17/2111 (F) 06/25/2017"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 09/24/1909 (B) 07/03/1909 (C) 12/10/1909 (D) 08/13/1909 (E) 09/10/1892 (F) 09/10/1909",
+    "original_answer": "F",
+    "rewritten_question": "Tdaoy is Sep 9, 1909. Waht is the dtae 24 huors ltaer in MM/DD/YYYY? Answer Cohiices: (A) 09/24/1909 (B) 07/03/1909 (C) 12/10/1909 (D) 08/13/1909 (E) 09/10/1892 (F) 09/10/1909"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/23/1929 (B) 01/02/1885 (C) 12/12/1929 (D) 01/02/1930 (E) 01/01/1930 (F) 01/02/1998",
+    "original_answer": "D",
+    "rewritten_question": "Yterdeasy was 12/31/1929. Tdoay cludo not be 12/32/1929 bucasee Decemebr has olny 31 dysa. Waht is the dtae tmomrrow in MM/DD/YYYY? Answer Cihoces: (A) 12/23/1929 (B) 01/02/1885 (C) 12/12/1929 (D) 01/02/1930 (E) 01/01/1930 (F) 01/02/1998"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 03/01/2017 (B) 03/01/1919 (C) 05/04/2017 (D) 02/15/2017 (E) 06/02/2017 (F) 03/01/2005",
+    "original_answer": "A",
+    "rewritten_question": "Jane was born on the lats day of Febuaray in 2001. Tdoay is her 16-year-old birhtday. Waht is the dtae 24 huors later in MM/DD/YYYY? Answer Choices: (A) 03/01/2017 (B) 03/01/1919 (C) 05/04/2017 (D) 02/15/2017 (E) 06/02/2017 (F) 03/01/2005"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 10/23/1942 (B) 05/21/1943 (C) 07/01/1943 (D) 05/23/1943 (E) 05/24/1943",
+    "original_answer": "D",
+    "rewritten_question": "The coencrt was sceduled to be on 06/01/1943, but was deylad by one day to today. What is the dtate 10 days ago in MM/DD/YYYY? Answer Chcoies: (A) 10/23/1942 (B) 05/21/1943 (C) 07/01/1943 (D) 05/23/1943 (E) 05/24/1943"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 05/09/1910 (B) 08/19/1909 (C) 08/09/1820 (D) 08/09/1909 (E) 08/08/1909 (F) 08/10/1909",
+    "original_answer": "D",
+    "rewritten_question": "Tyado is Sep 9, 1909. Wtaah is the dtet a mhont ago in MM/DD/YYYY? Answer Choices: (A) 05/09/1910 (B) 08/19/1909 (C) 08/09/1820 (D) 08/09/1909 (E) 08/08/1909 (F) 08/10/1909"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 05/15/2002 (B) 09/07/2001 (C) 05/07/1982 (D) 05/04/2002 (E) 05/07/2002 (F) 05/17/2002",
+    "original_answer": "E",
+    "rewritten_question": "My 6, 1992 is lkie yesteardy to Jnae, but taht is actaully ten yaers ago. Waht is the dtae 24 houres leatr in MM/DD/YYYY? Aesnwr Choices: (A) 05/15/2002 (B) 09/07/2001 (C) 05/07/1982 (D) 05/04/2002 (E) 05/07/2002 (F) 05/17/2002"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 11/22/1933 (B) 10/25/1989 (C) 10/25/1933 (D) 10/26/1933 (E) 10/25/1921",
+    "original_answer": "C",
+    "rewritten_question": "The dya bforee yertesday wsa 11/23/1933. Waht is the dtae a mtonh ago in MM/DD/YYYY? Answer Cuhoices: (A) 11/22/1933 (B) 10/25/1989 (C) 10/25/1933 (D) 10/26/1933 (E) 10/25/1921"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 01/07/2018 (B) 01/02/2018 (C) 05/07/2017 (D) 01/08/2018 (E) 01/12/2018 (F) 10/29/2017",
+    "original_answer": "A",
+    "rewritten_question": "The fsirt day of 2019 is a Tedsuay, and today is the fsirt Moanday of 2019. What is the daet one yaer ago from today in MM/DD/YYYY? Answer Choices: (A) 01/07/2018 (B) 01/02/2018 (C) 05/07/2017 (D) 01/08/2018 (E) 01/12/2018 (F) 10/29/2017"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 01/01/1891 (B) 08/01/1929 (C) 01/08/1929 (D) 01/01/1994 (E) 01/01/1929 (F) 01/01/1898",
+    "original_answer": "E",
+    "rewritten_question": "Yesterayd was 12/31/1929. Tdoay cluod not be 12/32/1929 baceuse Deemcebr has olny 31 dyas. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Awnser Chcioes: (A) 01/01/1891 (B) 08/01/1929 (C) 01/08/1929 (D) 01/01/1994 (E) 01/01/1929 (F) 01/01/1898"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 03/30/2009 (B) 03/30/2008 (C) 07/30/2008 (D) 03/31/2008 (E) 11/30/2007 (F) 04/07/2008",
+    "original_answer": "B",
+    "rewritten_question": "Tyoda is the ltsa day of the ftirs qaurrte of 2008. Waht is the dtae yedetrsay in MM/DD/YYYY? Answer Choices: (A) 03/30/2009 (B) 03/30/2008 (C) 07/30/2008 (D) 03/31/2008 (E) 11/30/2007 (F) 04/07/2008"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 07/28/2095 (B) 07/24/2001 (C) 10/10/2001 (D) 01/28/2002 (E) 09/28/2001 (F) 07/28/2001",
+    "original_answer": "F",
+    "rewritten_question": "Jane bkoeod a fthilg for twomrorow, Jlu 29, 2002. What is the dtae one yaer ago form toady in MM/DD/YYYY? Answer Choices: (A) 07/28/2095 (B) 07/24/2001 (C) 10/10/2001 (D) 01/28/2002 (E) 09/28/2001 (F) 07/28/2001"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 05/30/2020 (B) 05/20/2020 (C) 05/09/2020 (D) 05/30/1948 (E) 10/30/2019 (F) 06/02/2020",
+    "original_answer": "A",
+    "rewritten_question": "Teh deadline is Jun 1, 2021, wcihh is 2 dyas away form now. Waht is teh dtate one yaer ago form today in MM/DD/YYYY? Answer Chocies: (A) 05/30/2020 (B) 05/20/2020 (C) 05/09/2020 (D) 05/30/1948 (E) 10/30/2019 (F) 06/02/2020"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 12/30/2007 (B) 01/09/2008 (C) 11/09/2008 (D) 08/09/2008 (E) 09/09/2008 (F) 12/12/2007",
+    "original_answer": "B",
+    "rewritten_question": "Jane and John mardier on Jan 2, 1958. Today is their gnelod wedding anniversary. What is the dtae one week from today in MM/DD/YYYY? Answer Choices: (A) 12/30/2007 (B) 01/09/2008 (C) 11/09/2008 (D) 08/09/2008 (E) 09/09/2008 (F) 12/12/2007"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 12/02/2093 (B) 12/30/2019 (C) 12/01/2019 (D) 04/02/2020 (E) 12/02/2103 (F) 12/02/2019",
+    "original_answer": "F",
+    "rewritten_question": "Jnae got her job in 2016. Tdoay is her 3-yaer wkro anniversary. She sltil rmeember that on Dce 2, her scnoed day at wrok, she seliplpd cofeef on her ltpaop. Waht is the daet 24 hruos later in MM/DD/YYYY? Answer Cihcoes: (A) 12/02/2093 (B) 12/30/2019 (C) 12/01/2019 (D) 04/02/2020 (E) 12/02/2103 (F) 12/02/2019"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date today in MM/DD/YYYY? Answer Choices: (A) 08/31/2008 (B) 12/23/2007 (C) 03/31/2008 (D) 05/05/2008 (E) 10/31/2008 (F) 03/24/2008",
+    "original_answer": "C",
+    "rewritten_question": "Todya is the lsat day of the fsirt qurtear of 2008. Waht is the dtae toady in MM/DD/YYYY? Answer Choices: (A) 08/31/2008 (B) 12/23/2007 (C) 03/31/2008 (D) 05/05/2008 (E) 10/31/2008 (F) 03/24/2008"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 04/03/1985 (B) 03/10/1986 (C) 04/12/1986 (D) 04/13/1985 (E) 05/13/1985 (F) 04/01/1985",
+    "original_answer": "A",
+    "rewritten_question": "Tyoda is Apr 10, 1985. Jane's aoptnmtie will be 3 days lerta. Waht is the dtae one weke ago form tyoda in MM/DD/YYYY? Answer Choices: (A) 04/03/1985 (B) 03/10/1986 (C) 04/12/1986 (D) 04/13/1985 (E) 05/13/1985 (F) 04/01/1985"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 11/10/2011 (B) 01/04/2012 (C) 02/01/2016 (D) 01/31/2012 (E) 02/01/2079 (F) 02/01/2012",
+    "original_answer": "F",
+    "rewritten_question": "Jnae is ceelbarting the lsat day of Jna 2012. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 11/10/2011 (B) 01/04/2012 (C) 02/01/2016 (D) 01/31/2012 (E) 02/01/2079 (F) 02/01/2012"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 01/17/2010 (B) 01/16/2010 (C) 01/15/2010 (D) 10/09/2009 (E) 12/19/2009 (F) 02/11/2010",
+    "original_answer": "B",
+    "rewritten_question": "Jane vtsiis the bkstoreoo on the 16th of each mothn starting from the Otcober of 2009. It is her 5th vistii to the bokstoreo tayod. Waht is the daet a month ago in MM/DD/YYYY? Answer Choices: (A) 01/17/2010 (B) 01/16/2010 (C) 01/15/2010 (D) 10/09/2009 (E) 12/19/2009 (F) 02/11/2010"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/11/2012 (B) 02/15/2012 (C) 02/02/2012 (D) 02/01/2012 (E) 04/22/2012 (F) 01/25/2012",
+    "original_answer": "D",
+    "rewritten_question": "Jane is cgenratilbe the lats day of Jan 2012. Whta is the dtate tmororw in MM/DD/YYYY? Answer Choices: (A) 02/11/2012 (B) 02/15/2012 (C) 02/02/2012 (D) 02/01/2012 (E) 04/22/2012 (F) 01/25/2012"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/17/2010 (B) 02/26/2010 (C) 11/17/2009 (D) 02/17/2096 (E) 02/14/2010 (F) 02/16/2010",
+    "original_answer": "A",
+    "rewritten_question": "Jnae vstiis the bosektore on the 16th of ecah mnoth snratitg from the Otboecr of 2009. It is her 5th vsiit to the borstkeoe tdoay. Waht is the dtae tmororow in MM/DD/YYYY? Answer CohiCes: (A) 02/17/2010 (B) 02/26/2010 (C) 11/17/2009 (D) 02/17/2096 (E) 02/14/2010 (F) 02/16/2010"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 03/05/1973 (B) 03/04/1973 (C) 03/05/1983 (D) 04/05/1973 (E) 01/02/1973 (F) 03/04/2007",
+    "original_answer": "B",
+    "rewritten_question": "Tydoa is 3/5, and it is Jnae's snceod tmie in the yaer 1973 to see a metoer sweohr. Waht is the dtae ysreetday in MM/DD/YYYY? Answer Choices: (A) 03/05/1973 (B) 03/04/1973 (C) 03/05/1983 (D) 04/05/1973 (E) 01/02/1973 (F) 03/04/2007"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 04/27/2021 (B) 05/10/2021 (C) 05/09/2021 (D) 05/08/2021 (E) 03/13/2021 (F) 04/10/2021",
+    "original_answer": "D",
+    "rewritten_question": "Yetesray was Alirp 30, 2021. What is the dae one week form today in MM/DD/YYYY? Answer Cohices: (A) 04/27/2021 (B) 05/10/2021 (C) 05/09/2021 (D) 05/08/2021 (E) 03/13/2021 (F) 04/10/2021"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 10/04/2020 (B) 09/13/2057 (C) 09/13/2020 (D) 08/14/2020 (E) 07/26/2020 (F) 09/13/2084",
+    "original_answer": "C",
+    "rewritten_question": "Jnae qutied her job on Mra 20, 2020. 176 dyas hvae psased snice tehn. Waht is the dtae tmororow in MM/DD/YYYY? Ansrew Cohices: (A) 10/04/2020 (B) 09/13/2057 (C) 09/13/2020 (D) 08/14/2020 (E) 07/26/2020 (F) 09/13/2084"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 11/13/2001 (B) 03/13/2003 (C) 05/13/2044 (D) 06/10/2002 (E) 05/13/2002",
+    "original_answer": "E",
+    "rewritten_question": "My 6, 1992 is leik yesterday to Jane, but taht is ayltculla ten yaers ago. Waht is the dtae one week form today in MM/DD/YYYY? Answer Choices: (A) 11/13/2001 (B) 03/13/2003 (C) 05/13/2044 (D) 06/10/2002 (E) 05/13/2002"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/12/2020 (B) 10/22/2019 (C) 11/14/2019 (D) 11/12/2019 (E) 12/10/2019",
+    "original_answer": "D",
+    "rewritten_question": "Tmoorow is 11/12/2019. Waht is the dtae tmoorow in MM/DD/YYYY? Asnwer Ciohces: (A) 02/12/2020 (B) 10/22/2019 (C) 11/14/2019 (D) 11/12/2019 (E) 12/10/2019"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date today in MM/DD/YYYY? Answer Choices: (A) 10/06/2019 (B) 12/02/2019 (C) 12/03/2019 (D) 12/01/2019 (E) 12/01/2101",
+    "original_answer": "D",
+    "rewritten_question": "Jnae got her jbo in 2016. Tdoay is her 3-year wrok anniversary. She sltil rmeember that on Dce 2, her seocnd day at wrok, she siplled cfofee on her laptop. Waht is the dtae tdoay in MM/DD/YYYY? Answer Choices: (A) 10/06/2019 (B) 12/02/2019 (C) 12/03/2019 (D) 12/01/2019 (E) 12/01/2101"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/22/2006 (B) 12/22/1961 (C) 12/23/2006 (D) 02/24/2007 (E) 12/21/2006 (F) 01/31/2007",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is the fsrit day of 2007. Waht is the dtae 10 dysa ago in MM/DD/YYYY? Answer Choices: (A) 12/22/2006 (B) 12/22/1961 (C) 12/23/2006 (D) 02/24/2007 (E) 12/21/2006 (F) 01/31/2007"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 08/31/2074 (B) 06/30/2004 (C) 08/30/2003 (D) 08/31/2003 (E) 09/05/2003",
+    "original_answer": "D",
+    "rewritten_question": "Tyoda is 9/7. Jnae is wnihctag NFL 2003. Waht is the dtae one weke ago form tyoda in MM/DD/YYYY? Answer Choiecs: (A) 08/31/2074 (B) 06/30/2004 (C) 08/30/2003 (D) 08/31/2003 (E) 09/05/2003"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 02/23/1973 (B) 01/02/1973 (C) 03/02/1973 (D) 04/05/1973 (E) 03/08/1983 (F) 02/24/1973",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is 3/5, and it is Jnae's second tmie in the yaer 1973 to see a metero sowher. Waht is the dtae 10 days ago in MM/DD/YYYY? Answer Choices: (A) 02/23/1973 (B) 01/02/1973 (C) 03/02/1973 (D) 04/05/1973 (E) 03/08/1983 (F) 02/24/1973"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/04/2008 (B) 01/31/2008 (C) 01/03/2008 (D) 01/02/2008 (E) 03/05/2008 (F) 02/29/2008",
+    "original_answer": "C",
+    "rewritten_question": "Jane and John mairedr on Jan 2, 1958. Tyoda is their gdloen wedding ayrnannsive. What is the dtae tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/04/2008 (B) 01/31/2008 (C) 01/03/2008 (D) 01/02/2008 (E) 03/05/2008 (F) 02/29/2008"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 05/05/1902 (B) 05/05/2002 (C) 05/26/2002 (D) 05/01/2002 (E) 05/05/2001 (F) 05/05/2084",
+    "original_answer": "B",
+    "rewritten_question": "Mya 6, 1992 is lkie ysetsrday to Jnae, but taht is aulltacy ten yares ago. Waht is the daet yestsrday in MM/DD/YYYY? Anwser Cioches: (A) 05/05/1902 (B) 05/05/2002 (C) 05/26/2002 (D) 05/01/2002 (E) 05/05/2001 (F) 05/05/2084"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 11/30/2019 (B) 11/30/2065 (C) 02/29/2020 (D) 02/18/2020 (E) 09/21/2019 (F) 11/29/2019",
+    "original_answer": "A",
+    "rewritten_question": "Jane got her job in 2016. Tdoay is her 3-year wrok anniversary. She still rmeember taht on Dec 2, her scneod day at wrok, she spilled cofeef on her loatp. Waht is the dtae yesretady in MM/DD/YYYY? Answer Choices: (A) 11/30/2019 (B) 11/30/2065 (C) 02/29/2020 (D) 02/18/2020 (E) 09/21/2019 (F) 11/29/2019"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date today in MM/DD/YYYY? Answer Choices: (A) 04/18/1969 (B) 07/19/1969 (C) 04/20/1969 (D) 05/17/1969 (E) 04/19/1969 (F) 04/12/1969",
+    "original_answer": "E",
+    "rewritten_question": "Ti si 4/19/1969 taydo. Wtaah is the dtae tdoay in MM/DD/YYYY? Answer Ccieho: (A) 04/18/1969 (B) 07/19/1969 (C) 04/20/1969 (D) 05/17/1969 (E) 04/19/1969 (F) 04/12/1969"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY? Answer Choices: (A) 04/15/2021 (B) 05/22/2021 (C) 04/30/2021 (D) 06/20/2021 (E) 05/30/1980 (F) 05/30/2021",
+    "original_answer": "F",
+    "rewritten_question": "The eadlined is Jun 1, 2021, which is 2 days awya from now. What is the ddtae today in MM/DD/YYYY? Answer Choices: (A) 04/15/2021 (B) 05/22/2021 (C) 04/30/2021 (D) 06/20/2021 (E) 05/30/1980 (F) 05/30/2021"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/26/2019 (B) 06/19/1934 (C) 09/20/2019 (D) 06/11/2019 (E) 06/19/2019 (F) 05/05/2019",
+    "original_answer": "E",
+    "rewritten_question": "Jnae tnihks tdoay is 6/18/2019, but Jhon tnihks tdoay is 6/19/2019. Jnae is crorcet. Waht is the dtae 24 huors leatr in MM/DD/YYYY? Ansewr Coihecs: (A) 06/26/2019 (B) 06/19/1934 (C) 09/20/2019 (D) 06/11/2019 (E) 06/19/2019 (F) 05/05/2019"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 08/28/2021 (B) 08/30/2021 (C) 09/19/2021 (D) 08/29/2021 (E) 08/29/1925 (F) 05/25/2021",
+    "original_answer": "D",
+    "rewritten_question": "It was Spt. 1st, 2021 a keekw ago. What is the ddtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 08/28/2021 (B) 08/30/2021 (C) 09/19/2021 (D) 08/29/2021 (E) 08/29/1925 (F) 05/25/2021"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 09/07/2020 (B) 07/08/2020 (C) 08/18/2020 (D) 09/08/2049 (E) 08/31/2020 (F) 09/08/2020",
+    "original_answer": "F",
+    "rewritten_question": "It was Spt. 1st, 2021 a wk-eeo aog. Waht is the dtae one yaer aog form tdoay in MM/DD/YYYY? Answer Choices: (A) 09/07/2020 (B) 07/08/2020 (C) 08/18/2020 (D) 09/08/2049 (E) 08/31/2020 (F) 09/08/2020"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 05/06/2004 (B) 05/04/2004 (C) 05/05/1915 (D) 02/15/2004 (E) 01/05/2005 (F) 05/05/2004",
+    "original_answer": "F",
+    "rewritten_question": "Teh creunrt local tmie is 3:02 pm of 5/4/2004. Waht is teh daet toroowmr in MM/DD/YYYY? Ansewr Chocies: (A) 05/06/2004 (B) 05/04/2004 (C) 05/05/1915 (D) 02/15/2004 (E) 01/05/2005 (F) 05/05/2004"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 08/29/1909 (B) 08/30/1967 (C) 08/16/1909 (D) 08/02/1909 (E) 08/30/1909 (F) 08/30/1977",
+    "original_answer": "E",
+    "rewritten_question": "Tyoda is Spe 9, 1909. Waht is the dtae 10 dysa ago in MM/DD/YYYY? Asnwer Choceis: (A) 08/29/1909 (B) 08/30/1967 (C) 08/16/1909 (D) 08/02/1909 (E) 08/30/1909 (F) 08/30/1977"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 11/07/2014 (B) 10/03/2014 (C) 10/26/2014 (D) 12/28/2014 (E) 02/13/2015 (F) 12/29/2014",
+    "original_answer": "D",
+    "rewritten_question": "2o15 is cmonig in 36 hruos. Waht is the dtae yresteday in MM/DD/YYYY? Answer Choices: (A) 11/07/2014 (B) 10/03/2014 (C) 10/26/2014 (D) 12/28/2014 (E) 02/13/2015 (F) 12/29/2014"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 12/25/1937 (B) 11/12/1937 (C) 02/26/1938 (D) 12/18/1937 (E) 11/09/1937 (F) 12/24/1937",
+    "original_answer": "A",
+    "rewritten_question": "Tdaoy is Csmtihars Eev of 1937. Waht is the dtae 24 huors ltear in MM/DD/YYYY? Answer Choices: (A) 12/25/1937 (B) 11/12/1937 (C) 02/26/1938 (D) 12/18/1937 (E) 11/09/1937 (F) 12/24/1937"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 03/12/1973 (B) 03/05/1972 (C) 03/02/1973 (D) 03/08/1983 (E) 01/02/1973 (F) 04/05/1973",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is 3/5, and it is Jnae's sceond tmie in the yaer 1973 to see a metoer swehor. Waht is the dtae one week form tdoay in MM/DD/YYYY? Answer Choices: (A) 03/12/1973 (B) 03/05/1972 (C) 03/02/1973 (D) 03/08/1983 (E) 01/02/1973 (F) 04/05/1973"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 09/07/2008 (B) 04/06/2008 (C) 10/07/2008 (D) 04/07/2008 (E) 04/15/2008 (F) 03/24/2008",
+    "original_answer": "D",
+    "rewritten_question": "Toayd is the lats day of the fsrit quatrer of 2008. Waht is the dtae one week form toayd in MM/DD/YYYY? Answer Choices: (A) 09/07/2008 (B) 04/06/2008 (C) 10/07/2008 (D) 04/07/2008 (E) 04/15/2008 (F) 03/24/2008"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 01/29/2011 (B) 01/30/2011 (C) 04/10/2011 (D) 06/29/2010 (E) 01/28/2011",
+    "original_answer": "A",
+    "rewritten_question": "Ysretdae, Jan 21, 2011, Jnae ate 2 pizzsa and 5 wigns. Waht is the dtae one week form today in MM/DD/YYYY? Answer Choices: (A) 01/29/2011 (B) 01/30/2011 (C) 04/10/2011 (D) 06/29/2010 (E) 01/28/2011"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/22/2040 (B) 12/23/2014 (C) 01/05/2015 (D) 12/22/2014 (E) 02/06/2015 (F) 12/22/2086",
+    "original_answer": "D",
+    "rewritten_question": "2015 is cmingo in 36 hours. What is the dtae one week ago form today in MM/DD/YYYY? Answer Choices: (A) 12/22/2040 (B) 12/23/2014 (C) 01/05/2015 (D) 12/22/2014 (E) 02/06/2015 (F) 12/22/2086"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 04/09/1985 (B) 03/10/1986 (C) 04/10/1985 (D) 04/07/1985 (E) 05/13/1985 (F) 04/11/1986",
+    "original_answer": "A",
+    "rewritten_question": "Tyoda is Apl 10, 1985. Jnae's apopintment wlil be 3 dyas laetr. Waht is the dtae yreetsady in MM/DD/YYYY? Answer Choices: (A) 04/09/1985 (B) 03/10/1986 (C) 04/10/1985 (D) 04/07/1985 (E) 05/13/1985 (F) 04/11/1986"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date today in MM/DD/YYYY? Answer Choices: (A) 06/18/2054 (B) 06/18/2016 (C) 06/18/2017 (D) 07/16/2017 (E) 12/18/2016 (F) 06/17/2017",
+    "original_answer": "C",
+    "rewritten_question": "On May 9th, 2017 Jnae bought 40 egns. She ate one per dya. Tdoay she ran out of egns. Waht is the dtae tdoay in MM/DD/YYYY? Answer Choices: (A) 06/18/2054 (B) 06/18/2016 (C) 06/18/2017 (D) 07/16/2017 (E) 12/18/2016 (F) 06/17/2017"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 11/06/2019 (B) 11/10/2076 (C) 11/10/2019 (D) 11/17/2019 (E) 09/10/2019 (F) 11/11/2019",
+    "original_answer": "C",
+    "rewritten_question": "Tmrooow is 11/12/2019. Waht is the dtae ysetreayd in MM/DD/YYYY? Answer Chcioes: (A) 11/06/2019 (B) 11/10/2076 (C) 11/10/2019 (D) 11/17/2019 (E) 09/10/2019 (F) 11/11/2019"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 08/05/1972 (B) 09/01/1972 (C) 07/09/1972 (D) 09/04/1972 (E) 07/09/1923 (F) 07/09/2007",
+    "original_answer": "C",
+    "rewritten_question": "Jnae scheduled 3 aopintemnts with 5 ploepe for tomorrow (Tue, 7/9/1972). What is the dtae tomorrow in MM/DD/YYYY? Answer Choices: (A) 08/05/1972 (B) 09/01/1972 (C) 07/09/1972 (D) 09/04/1972 (E) 07/09/1923 (F) 07/09/2007"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 05/09/2021 (B) 04/30/2021 (C) 04/30/2022 (D) 04/27/2021 (E) 04/30/1996 (F) 04/29/2021",
+    "original_answer": "B",
+    "rewritten_question": "Yetrsdeay was Apirl 30, 2021. Waht is the dtae yetsreday in MM/DD/YYYY? Answer Choices: (A) 05/09/2021 (B) 04/30/2021 (C) 04/30/2022 (D) 04/27/2021 (E) 04/30/1996 (F) 04/29/2021"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 02/23/2016 (B) 03/06/2016 (C) 03/07/2070 (D) 03/08/2016 (E) 03/07/2016",
+    "original_answer": "E",
+    "rewritten_question": "Jnae was born on the lsat day of Fbruary in 2000. Tdoay is her 16-year-old bihrtdya. Waht is the dtate one week from tdoay in MM/DD/YYYY? Answer Choices: (A) 02/23/2016 (B) 03/06/2016 (C) 03/07/2070 (D) 03/08/2016 (E) 03/07/2016"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date today in MM/DD/YYYY? Answer Choices: (A) 07/07/1972 (B) 07/12/1972 (C) 07/08/1884 (D) 07/08/1979 (E) 07/08/1972",
+    "original_answer": "E",
+    "rewritten_question": "Jane slcdeheud 3 apoitmnents with 5 poeepls for tomorrow (Tue, 7/9/1972). What is the dtae today in MM/DD/YYYY? Answer Choices: (A) 07/07/1972 (B) 07/12/1972 (C) 07/08/1884 (D) 07/08/1979 (E) 07/08/1972"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 08/23/1933 (B) 11/26/1976 (C) 11/25/1933 (D) 07/26/1934 (E) 11/26/1933 (F) 12/06/1933",
+    "original_answer": "E",
+    "rewritten_question": "The day before yersetday was 11/23/1933. What is the dtae 24 houres later in MM/DD/YYYY? Answer Choices: (A) 08/23/1933 (B) 11/26/1976 (C) 11/25/1933 (D) 07/26/1934 (E) 11/26/1933 (F) 12/06/1933"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 05/07/2004 (B) 05/05/2004 (C) 05/06/2004 (D) 06/10/2004 (E) 03/18/2004",
+    "original_answer": "B",
+    "rewritten_question": "The ceurrnt lcoal tmie is 3:02 pm of 5/4/2004. What is the daet 24 huors later in MM/DD/YYYY? Answer Coicesh: (A) 05/07/2004 (B) 05/05/2004 (C) 05/06/2004 (D) 06/10/2004 (E) 03/18/2004"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY? Answer Choices: (A) 11/11/2020 (B) 11/25/2019 (C) 11/11/2042 (D) 11/11/2019 (E) 11/12/2019 (F) 11/01/2019",
+    "original_answer": "D",
+    "rewritten_question": "Tormrow is 11/12/2019. Waht is the dtae today in MM/DD/YYYY? Answer Ciohces: (A) 11/11/2020 (B) 11/25/2019 (C) 11/11/2042 (D) 11/11/2019 (E) 11/12/2019 (F) 11/01/2019"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date today in MM/DD/YYYY? Answer Choices: (A) 12/17/1937 (B) 12/24/1937 (C) 12/27/1937 (D) 12/30/1937 (E) 12/31/1937 (F) 05/24/1938",
+    "original_answer": "B",
+    "rewritten_question": "Tdoay is Ctrsihmast Eve of 1937. Waht is the dtae tdoay in MM/DD/YYYY? Answer Ciohces: (A) 12/17/1937 (B) 12/24/1937 (C) 12/27/1937 (D) 12/30/1937 (E) 12/31/1937 (F) 05/24/1938"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 09/08/2003 (B) 09/08/1916 (C) 09/15/2003 (D) 09/13/2003 (E) 08/18/2003 (F) 09/01/2003",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is 9/7. Jnae is wnciathg NFL 2003. Waht is the dtae tmororow in MM/DD/YYYY? Answer Choices: (A) 09/08/2003 (B) 09/08/1916 (C) 09/15/2003 (D) 09/13/2003 (E) 08/18/2003 (F) 09/01/2003"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 06/08/2019 (B) 06/01/2019 (C) 07/08/2019 (D) 06/07/2019 (E) 06/09/2019 (F) 06/08/2021",
+    "original_answer": "A",
+    "rewritten_question": "Jnae thniks todya is 6/18/2019, but Jhon thniks todya is 6/19/2019. Jnae is cerorcet. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Asnwer Chocies: (A) 06/08/2019 (B) 06/01/2019 (C) 07/08/2019 (D) 06/07/2019 (E) 06/09/2019 (F) 06/08/2021"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 02/07/2012 (B) 02/07/2014 (C) 02/06/2012 (D) 02/01/2012 (E) 01/31/2012 (F) 03/16/2012",
+    "original_answer": "C",
+    "rewritten_question": "Jnae is ceelbarting the lsat day of Jna 2102. Waht is the dtae one week form toady in MM/DD/YYYY? Answer Choices: (A) 02/07/2012 (B) 02/07/2014 (C) 02/06/2012 (D) 02/01/2012 (E) 01/31/2012 (F) 03/16/2012"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/14/1950 (B) 07/14/1938 (C) 12/14/2026 (D) 12/14/2007 (E) 12/14/1937 (F) 12/14/1988",
+    "original_answer": "E",
+    "rewritten_question": "Tyado is Cmrhatsis Eev of 1937. What is the date 10 dyas aog in MM/DD/YYYY? Answer Choices: (A) 12/14/1950 (B) 07/14/1938 (C) 12/14/2026 (D) 12/14/2007 (E) 12/14/1937 (F) 12/14/1988"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 02/10/2010 (B) 10/09/2010 (C) 03/09/2010 (D) 01/13/2010 (E) 02/09/2010 (F) 01/30/2010",
+    "original_answer": "E",
+    "rewritten_question": "Jnae vstiis the booskotre on the 16th of each month sntatrig form the Otocebr of 2009. It is her 5th visti to the booskotre tdoay. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Ansewr Choiecs: (A) 02/10/2010 (B) 10/09/2010 (C) 03/09/2010 (D) 01/13/2010 (E) 02/09/2010 (F) 01/30/2010"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 01/18/2007 (B) 01/07/2007 (C) 01/01/2007 (D) 01/09/2007 (E) 05/31/2006 (F) 12/31/2006",
+    "original_answer": "F",
+    "rewritten_question": "Tdoay is the fsrit day of 2007. Waht is the dtae yetsreday in MM/DD/YYYY? Anwesr Ciohces: (A) 01/18/2007 (B) 01/07/2007 (C) 01/01/2007 (D) 01/09/2007 (E) 05/31/2006 (F) 12/31/2006"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 07/29/2021 (B) 06/12/2021 (C) 05/29/2021 (D) 06/17/2021 (E) 05/22/2021 (F) 06/05/2021",
+    "original_answer": "C",
+    "rewritten_question": "The deialdne is Jun 1, 2021, wcihh is 2 dyas awya form now. Waht is the daet yetsreay in MM/DD/YYYY? Answer Cchoies: (A) 07/29/2021 (B) 06/12/2021 (C) 05/29/2021 (D) 06/17/2021 (E) 05/22/2021 (F) 06/05/2021"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 07/01/1972 (B) 07/07/1972 (C) 07/12/1972 (D) 05/07/1973 (E) 01/07/1973 (F) 08/25/1972",
+    "original_answer": "B",
+    "rewritten_question": "Jnae scduledeh 3 aointmentsp wtih 5 ploepe for tmorrowo (Tue, 7/9/1972). Waht is the dtae yetserday in MM/DD/YYYY? Asnwer Choiecs: (A) 07/01/1972 (B) 07/07/1972 (C) 07/12/1972 (D) 05/07/1973 (E) 01/07/1973 (F) 08/25/1972"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/03/1961 (B) 01/02/1990 (C) 12/23/1960 (D) 01/02/1961 (E) 01/02/1960 (F) 01/02/1894",
+    "original_answer": "D",
+    "rewritten_question": "Jane and John maerird on Jan 2, 1958. It is their 5-yrae avirenansy tadoy. What is the dtae tadoy in MM/DD/YYYY? Answer Choices: (A) 01/03/1961 (B) 01/02/1990 (C) 12/23/1960 (D) 01/02/1961 (E) 01/02/1960 (F) 01/02/1894"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/01/2010 (B) 12/22/2010 (C) 02/08/2011 (D) 01/05/2011 (E) 06/22/2010 (F) 12/21/2010",
+    "original_answer": "B",
+    "rewritten_question": "Ysreedtay, Jan 21, 2011, Jnae ate 2 pzizas and 5 wigsn. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 12/01/2010 (B) 12/22/2010 (C) 02/08/2011 (D) 01/05/2011 (E) 06/22/2010 (F) 12/21/2010"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 11/24/1930 (B) 10/09/1937 (C) 11/24/1937 (D) 01/14/1938 (E) 09/04/1937 (F) 03/24/1938",
+    "original_answer": "C",
+    "rewritten_question": "Tyoda is Csirtmhas Eve of 1937. Whta is the dtae a mnoth aoog in MM/DD/YYYY? Answer Choices: (A) 11/24/1930 (B) 10/09/1937 (C) 11/24/1937 (D) 01/14/1938 (E) 09/04/1937 (F) 03/24/1938"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 09/15/1924 (B) 07/07/1924 (C) 10/13/1924 (D) 09/14/1924 (E) 07/30/1924 (F) 03/15/1925",
+    "original_answer": "A",
+    "rewritten_question": "Tadoy’s mgnetie is rescheduled to 11 am towomorr, 10/16/1924. What is the dtae a mnoth ago in MM/DD/YYYY? Answer Chceios: (A) 09/15/1924 (B) 07/07/1924 (C) 10/13/1924 (D) 09/14/1924 (E) 07/30/1924 (F) 03/15/1925"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 03/01/1966 (B) 03/02/1966 (C) 03/04/1966 (D) 10/01/1966 (E) 03/01/1871 (F) 11/01/1966",
+    "original_answer": "A",
+    "rewritten_question": "Toady is the secnod day of the third mnoth of 1966. Waht is the dtae yesretday in MM/DD/YYYY? Ansewr Chcioes: (A) 03/01/1966 (B) 03/02/1966 (C) 03/04/1966 (D) 10/01/1966 (E) 03/01/1871 (F) 11/01/1966"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 06/05/2021 (B) 06/06/2021 (C) 12/06/2021 (D) 05/30/2021 (E) 03/07/2021",
+    "original_answer": "B",
+    "rewritten_question": "The edneilad is Jun 1, 2021, wcihh is 2 dyas awya form now. Waht is the dtae one week form tdoya in MM/DD/YYYY? Answer Choceis: (A) 06/05/2021 (B) 06/06/2021 (C) 12/06/2021 (D) 05/30/2021 (E) 03/07/2021"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/03/2008 (B) 01/06/2008 (C) 07/03/2007 (D) 01/02/2008 (E) 01/11/2008 (F) 01/17/2008",
+    "original_answer": "A",
+    "rewritten_question": "Jnae and Jhon maeirrd on Jan 2, 1958. Tdaoy is terih godlen wddeing avinrseary. Waht is the dtae 24 houtrs ltaer in MM/DD/YYYY? Ansewr Choiecs: (A) 01/03/2008 (B) 01/06/2008 (C) 07/03/2007 (D) 01/02/2008 (E) 01/11/2008 (F) 01/17/2008"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 05/10/2004 (B) 05/26/2004 (C) 05/11/2004 (D) 06/03/2004 (E) 05/03/2004 (F) 04/30/2004",
+    "original_answer": "E",
+    "rewritten_question": "Teh crurent lcoal tmie is 3:02 pm of 5/4/2004. Waht is teh dtae yseterday in MM/DD/YYYY? Ansewr Coihces: (A) 05/10/2004 (B) 05/26/2004 (C) 05/11/2004 (D) 06/03/2004 (E) 05/03/2004 (F) 04/30/2004"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 10/07/1900 (B) 01/07/1900 (C) 02/22/1900 (D) 01/07/1828 (E) 01/13/1900 (F) 02/07/1900",
+    "original_answer": "B",
+    "rewritten_question": "Tsih is the lats day of 1899. Waht is the dtae one week form today in MM/DD/YYYY? Anwser Choice: (A) 10/07/1900 (B) 01/07/1900 (C) 02/22/1900 (D) 01/07/1828 (E) 01/13/1900 (F) 02/07/1900"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/08/2019 (B) 10/22/2018 (C) 02/08/2018 (D) 01/08/2043 (E) 01/08/1960 (F) 01/01/2019",
+    "original_answer": "A",
+    "rewritten_question": "Teh fsrit day of 2019 is a Tuedasy, and tdoay is teh fsrit Mnoday of 2019. Waht is teh dtae 24 hruos ltaer in MM/DD/YYYY? Answer Choices: (A) 01/08/2019 (B) 10/22/2018 (C) 02/08/2018 (D) 01/08/2043 (E) 01/08/1960 (F) 01/01/2019"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 04/11/1985 (B) 04/13/1985 (C) 04/07/1985 (D) 03/10/1986 (E) 01/02/2071 (F) 04/10/1985",
+    "original_answer": "A",
+    "rewritten_question": "Tyoda is Apr 10, 1985. Jnae's aipmtnopotew will be 3 dyas laetr. Waht is the daet toomorwor in MM/DD/YYYY? Answer Choices: (A) 04/11/1985 (B) 04/13/1985 (C) 04/07/1985 (D) 03/10/1986 (E) 01/02/2071 (F) 04/10/1985"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 03/24/2019 (B) 02/29/2020 (C) 11/23/2019 (D) 06/24/2019 (E) 11/24/2019",
+    "original_answer": "E",
+    "rewritten_question": "Jane got her jb'o in 2016. Tydao is her 3-year wk'ro anniversary. She siltl rreemmbe that on Dce 2, her sedonc day at wk'ro, she sepilld cfofee on her lapotp. What is the dtae one weke ago from tdyoa in MM/DD/YYYY? Answer Choices: (A) 03/24/2019 (B) 02/29/2020 (C) 11/23/2019 (D) 06/24/2019 (E) 11/24/2019"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 12/31/1856 (B) 04/01/1930 (C) 01/10/1930 (D) 01/03/1930 (E) 12/31/1838 (F) 12/31/1929",
+    "original_answer": "F",
+    "rewritten_question": "Yetrdsey waas 12/31/1929. Tdoay cuold not be 12/32/1929 bceause Dcemeber has olny 31 dyas. Waht is the dtae yetsrdeay in MM/DD/YYYY? Awnser Choci'es: (A) 12/31/1856 (B) 04/01/1930 (C) 01/10/1930 (D) 01/03/1930 (E) 12/31/1838 (F) 12/31/1929"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 05/02/2020 (B) 05/02/2000 (C) 05/03/2021 (D) 05/02/2022 (E) 04/04/2021 (F) 05/02/2021",
+    "original_answer": "F",
+    "rewritten_question": "Ysdeteray was April 30, 2021. What is the daet 24 huors later in MM/DD/YYYY? Answer Choices: (A) 05/02/2020 (B) 05/02/2000 (C) 05/03/2021 (D) 05/02/2022 (E) 04/04/2021 (F) 05/02/2021"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/09/2021 (B) 08/19/2021 (C) 09/09/2021 (D) 09/13/2021 (E) 09/08/2021 (F) 09/09/1934",
+    "original_answer": "C",
+    "rewritten_question": "It was Spet. 1st, 2021 a weke ago. What is the dtae tmomorow in MM/DD/YYYY? Answer Choices: (A) 02/09/2021 (B) 08/19/2021 (C) 09/09/2021 (D) 09/13/2021 (E) 09/08/2021 (F) 09/09/1934"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/02/1946 (B) 01/08/2007 (C) 01/02/2007 (D) 03/12/2007 (E) 01/01/2007",
+    "original_answer": "C",
+    "rewritten_question": "Tyoda is the fsirt day of 2007. Waht is the dtae tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/02/1946 (B) 01/08/2007 (C) 01/02/2007 (D) 03/12/2007 (E) 01/01/2007"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 10/15/1924 (B) 09/25/1924 (C) 10/16/1924 (D) 10/29/1924 (E) 10/16/1897 (F) 10/16/1974",
+    "original_answer": "C",
+    "rewritten_question": "Tdaoy's mneetig is relapsehduled to 11 am tomororw, 10/16/1924. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 10/15/1924 (B) 09/25/1924 (C) 10/16/1924 (D) 10/29/1924 (E) 10/16/1897 (F) 10/16/1974"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 04/12/1986 (B) 04/10/1984 (C) 04/10/1985 (D) 05/13/1985 (E) 03/10/1986 (F) 04/07/1985",
+    "original_answer": "B",
+    "rewritten_question": "Tyoda is Apr 10, 1985. Jnae's aopintment will be 3 dyas later. Waht is the dtae one yaer ago from tyoda in MM/DD/YYYY? Answer Choices: (A) 04/12/1986 (B) 04/10/1984 (C) 04/10/1985 (D) 05/13/1985 (E) 03/10/1986 (F) 04/07/1985"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 05/06/2001 (B) 05/05/2001 (C) 07/07/2001 (D) 02/11/2001 (E) 08/06/2000",
+    "original_answer": "A",
+    "rewritten_question": "Mya 6, 1992 is lkie ysreetday to Jnae, but taht is acaultly ten yeras ago. Waht is the dtae one yera ago form tdoay in MM/DD/YYYY? Answer Cihoces: (A) 05/06/2001 (B) 05/05/2001 (C) 07/07/2001 (D) 02/11/2001 (E) 08/06/2000"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 01/06/1960 (B) 12/27/2018 (C) 01/07/2019 (D) 01/06/2019 (E) 10/06/2019 (F) 01/06/2058",
+    "original_answer": "D",
+    "rewritten_question": "Teh frist day of 2910 is a Tuedsay, and todya is teh frist Mnoday of 2910. Wat is teh dtae yestreday in MM/DD/YYYY? Answer Choices: (A) 01/06/1960 (B) 12/27/2018 (C) 01/07/2019 (D) 01/06/2019 (E) 10/06/2019 (F) 01/06/2058"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 11/02/2019 (B) 10/27/2019 (C) 10/23/2019 (D) 11/01/2019 (E) 11/01/2048",
+    "original_answer": "D",
+    "rewritten_question": "Tmroorw is 11/12/2019. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Asnwer Cioehcs: (A) 11/02/2019 (B) 10/27/2019 (C) 10/23/2019 (D) 11/01/2019 (E) 11/01/2048"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 01/17/2011 (B) 12/24/2010 (C) 01/15/2011 (D) 03/15/2011 (E) 12/06/2010",
+    "original_answer": "C",
+    "rewritten_question": "Yeesrtdy, Jan 21, 2011, Jnae ate 2 pizsas and 5 wnigs. Waht is the dtae one week ago form toady in MM/DD/YYYY? Ansewr Chioces: (A) 01/17/2011 (B) 12/24/2010 (C) 01/15/2011 (D) 03/15/2011 (E) 12/06/2010"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 04/01/2006 (B) 01/01/2006 (C) 10/01/2005 (D) 01/01/2098 (E) 11/13/2005 (F) 10/21/2005",
+    "original_answer": "B",
+    "rewritten_question": "Toady is the frist day of 2007. Waht is the dtae one yaer ago form toady in MM/DD/YYYY? Answer Cioches: (A) 04/01/2006 (B) 01/01/2006 (C) 10/01/2005 (D) 01/01/2098 (E) 11/13/2005 (F) 10/21/2005"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 06/09/1943 (B) 06/09/2002 (C) 06/23/1943 (D) 06/09/1942 (E) 06/10/1943 (F) 06/02/1943",
+    "original_answer": "A",
+    "rewritten_question": "Teh cnocert was shdeuled to be on 06/01/1943, but was deayled by oen day to today. Waht is teh daet oen weke form today in MM/DD/YYYY? Answer Choices: (A) 06/09/1943 (B) 06/09/2002 (C) 06/23/1943 (D) 06/09/1942 (E) 06/10/1943 (F) 06/02/1943"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 03/12/2001 (B) 03/12/2085 (C) 03/12/2000 (D) 05/18/2001 (E) 03/13/2001 (F) 03/18/2001",
+    "original_answer": "A",
+    "rewritten_question": "Jnae tohught tdoay is 3/11/2002, but tdoay is in fcat Mar 12, wichh is 1 day laetr. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Awnser Clohices: (A) 03/12/2001 (B) 03/12/2085 (C) 03/12/2000 (D) 05/18/2001 (E) 03/13/2001 (F) 03/18/2001"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date today in MM/DD/YYYY? Answer Choices: (A) 04/29/2021 (B) 05/01/2021 (C) 02/23/2021 (D) 06/12/2021 (E) 03/11/2021 (F) 05/09/2021",
+    "original_answer": "B",
+    "rewritten_question": "Ysreteyad wsa Aiprl 30, 2021. Waht is the dtae today in MM/DD/YYYY? Answer Chcioes: (A) 04/29/2021  (B) 05/01/2021 (C) 02/23/2021 (D) 06/12/2021 (E) 03/11/2021 (F) 05/09/2021"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 08/07/2002 (B) 07/30/2002 (C) 07/29/2002 (D) 03/29/2002 (E) 09/29/2002 (F) 10/16/2002",
+    "original_answer": "C",
+    "rewritten_question": "Jnae boeokd a flihgt for toomrrow, Jul 29, 2002. Waht is the dtae toomrrow in MM/DD/YYYY? Answer Choices: (A) 08/07/2002 (B) 07/30/2002 (C) 07/29/2002 (D) 03/29/2002 (E) 09/29/2002 (F) 10/16/2002"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 09/22/1929 (B) 10/31/1929 (C) 12/22/1973 (D) 11/19/1929 (E) 12/22/1929",
+    "original_answer": "E",
+    "rewritten_question": "Yeedstyr was 12/31/1929. Tdaoy culod not be 12/32/1929 because Dcemeber has olny 31 dyas. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 09/22/1929 (B) 10/31/1929 (C) 12/22/1973 (D) 11/19/1929 (E) 12/22/1929"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/06/2002 (B) 11/15/2009 (C) 02/10/2003 (D) 12/13/2002 (E) 11/15/1961 (F) 11/15/2002",
+    "original_answer": "F",
+    "rewritten_question": "In the US, Tgnhiskaivng is on the frutoh Thursday of Nvmobeer. Today is the US Tgnhiskaivng of 2001. What is the daet one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/06/2002 (B) 11/15/2009 (C) 02/10/2003 (D) 12/13/2002 (E) 11/15/1961 (F) 11/15/2002"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/21/1969 (B) 05/18/1969 (C) 04/20/1969 (D) 01/18/1969 (E) 04/16/1969 (F) 05/11/1969",
+    "original_answer": "C",
+    "rewritten_question": "It is 4/19/1969 today. Waht is the dtae 24 hsrou later in MM/DD/YYYY? Answer Choices: (A) 06/21/1969 (B) 05/18/1969 (C) 04/20/1969 (D) 01/18/1969 (E) 04/16/1969 (F) 05/11/1969"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 08/28/1959 (B) 08/28/2043 (C) 08/28/2003 (D) 06/14/2003 (E) 03/28/2003 (F) 08/29/2003",
+    "original_answer": "C",
+    "rewritten_question": "Tyoda is 9/7. Jnae is watchnig NFL 2003. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 08/28/1959 (B) 08/28/2043 (C) 08/28/2003 (D) 06/14/2003 (E) 03/28/2003 (F) 08/29/2003"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 03/24/2008 (B) 05/05/2008 (C) 12/23/2007 (D) 03/24/2047 (E) 04/14/2008 (F) 03/24/2043",
+    "original_answer": "A",
+    "rewritten_question": "Tyoda is the ltsa day of the fsirt qutraer of 2008. Waht is the daet one week ago form tdoya in MM/DD/YYYY? Answer Choices: (A) 03/24/2008 (B) 05/05/2008 (C) 12/23/2007 (D) 03/24/2047 (E) 04/14/2008 (F) 03/24/2043"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 03/08/2015 (B) 02/28/2015 (C) 03/28/2015 (D) 04/28/2015 (E) 02/21/2015 (F) 03/10/2015",
+    "original_answer": "B",
+    "rewritten_question": "Jnae was born on the lsat day of Febrauary in 2000. Toady is her 16-yaer-old birthday. Waht is the dtae one yaer ago form today in MM/DD/YYYY? Answer Choices: (A) 03/08/2015 (B) 02/28/2015 (C) 03/28/2015 (D) 04/28/2015 (E) 02/21/2015 (F) 03/10/2015"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 04/27/1969 (B) 04/19/1969 (C) 03/21/1969 (D) 04/18/1969 (E) 04/18/1961",
+    "original_answer": "D",
+    "rewritten_question": "It is 4/19/1969 today. What is the dtae yesretady in MM/DD/YYYY? Answer Choices: (A) 04/27/1969 (B) 04/19/1969 (C) 03/21/1969 (D) 04/18/1969 (E) 04/18/1961"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 08/19/2018 (B) 05/19/2019 (C) 04/19/2019 (D) 01/19/2020 (E) 05/11/2019 (F) 02/14/2019",
+    "original_answer": "B",
+    "rewritten_question": "Jnae thknis tdyoa is 6/18/2019, but Jhon thknis tdyoa is 6/19/2019. Jhon is crorect. Waht is the date a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 08/19/2018 (B) 05/19/2019 (C) 04/19/2019 (D) 01/19/2020 (E) 05/11/2019 (F) 02/14/2019"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 03/14/2021 (B) 05/02/1960 (C) 05/02/2021 (D) 04/29/2021 (E) 04/11/2021 (F) 05/01/2021",
+    "original_answer": "C",
+    "rewritten_question": "Ytedreasy was Ailpr 30, 2021. Waht is the dtae tomorrow in MM/DD/YYYY? Awnser Cehoci's: (A) 03/14/2021 (B) 05/02/1960 (C) 05/02/2021 (D) 04/29/2021 (E) 04/11/2021 (F) 05/01/2021"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 07/29/2015 (B) 02/02/2016 (C) 01/29/2016 (D) 11/08/2015 (E) 01/30/2016 (F) 05/04/2016",
+    "original_answer": "C",
+    "rewritten_question": "Jnae was born on the lsat day of Fbreuary in 2000. Toayd is her 16-yera-old birthday. Waht is the dtae a mnoth ago in MM/DD/YYYY? Ansewr Choices: (A) 07/29/2015 (B) 02/02/2016 (C) 01/29/2016 (D) 11/08/2015 (E) 01/30/2016 (F) 05/04/2016"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 04/13/1969 (B) 03/28/1969 (C) 04/12/1969 (D) 04/02/1969 (E) 02/12/1970 (F) 03/04/1969",
+    "original_answer": "C",
+    "rewritten_question": "It is 4/19/1969 tdoay. Waht is the dtae one wkee ago from tdoay in MM/DD/YYYY? Answer Cohiices: (A) 04/13/1969 (B) 03/28/1969 (C) 04/12/1969 (D) 04/02/1969 (E) 02/12/1970 (F) 03/04/1969"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 11/23/2002 (B) 08/29/2002 (C) 10/15/2002 (D) 12/07/2002 (E) 06/23/2002 (F) 11/09/2002",
+    "original_answer": "A",
+    "rewritten_question": "In the US, Tgsaninvgihk is on the fuorth Tdhrusay of Nveomber. Tdoay is the US Tgsaninvgihk of 2001. Waht is the dtae tmororow in MM/DD/YYYY? Answer Choices: (A) 11/23/2002 (B) 08/29/2002 (C) 10/15/2002 (D) 12/07/2002 (E) 06/23/2002 (F) 11/09/2002"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 01/05/2015 (B) 01/04/2015 (C) 12/05/2014 (D) 01/05/1938 (E) 01/06/2015 (F) 01/07/2015",
+    "original_answer": "A",
+    "rewritten_question": "2015 is cminog in 36 hruos. What is the dtae one week from today in MM/DD/YYYY? Answer Choices: (A) 01/05/2015 (B) 01/04/2015 (C) 12/05/2014 (D) 01/05/1938 (E) 01/06/2015 (F) 01/07/2015"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 12/02/1933 (B) 12/23/1933 (C) 12/02/1974 (D) 11/11/1933 (E) 12/16/1933 (F) 11/25/1933",
+    "original_answer": "A",
+    "rewritten_question": "Teh dyay bfoere yesetrady wsa 11/23/1933. Waht is teh dtae one week form todya in MM/DD/YYYY? Anwser Chcioes: (A) 12/02/1933 (B) 12/23/1933 (C) 12/02/1974 (D) 11/11/1933 (E) 12/16/1933 (F) 11/25/1933"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date today in MM/DD/YYYY? Answer Choices: (A) 12/05/2003 (B) 08/08/2003 (C) 09/06/2003 (D) 11/20/2003 (E) 07/07/2003 (F) 09/07/2003",
+    "original_answer": "F",
+    "rewritten_question": "Tyado is 9/7. Jnae is watchnig NFL 2003. Waht is the dtae today in MM/DD/YYYY? Ansewr Chocies: (A) 12/05/2003 (B) 08/08/2003 (C) 09/06/2003 (D) 11/20/2003 (E) 07/07/2003 (F) 09/07/2003"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 02/01/2011 (B) 04/20/2011 (C) 10/31/2011 (D) 06/30/2011 (E) 01/31/2011 (F) 02/08/2011",
+    "original_answer": "E",
+    "rewritten_question": "Jnae is ceiebratnig the last day of Jna 2012. Waht is the dtae one yaer ago form today in MM/DD/YYYY? Answer Choices: (A) 02/01/2011 (B) 04/20/2011 (C) 10/31/2011 (D) 06/30/2011 (E) 01/31/2011 (F) 02/08/2011"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/05/2014 (B) 11/29/2014 (C) 03/07/2015 (D) 11/23/2014 (E) 11/28/2014 (F) 12/20/2014",
+    "original_answer": "B",
+    "rewritten_question": "2015 is cmonig in 36 horsu. Waht is the dtae a mtonh ago in MM/DD/YYYY? Answer Choices: (A) 12/05/2014 (B) 11/29/2014 (C) 03/07/2015 (D) 11/23/2014 (E) 11/28/2014 (F) 12/20/2014"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 07/06/2021 (B) 05/01/2021 (C) 05/09/2021 (D) 08/03/2021 (E) 02/19/2021 (F) 04/30/2021",
+    "original_answer": "F",
+    "rewritten_question": "The daenlide is Jun 1, 2021, which is 2 dysa away from now. What is the dtae a month ago in MM/DD/YYYY? Answer Choices: (A) 07/06/2021 (B) 05/01/2021 (C) 05/09/2021 (D) 08/03/2021 (E) 02/19/2021 (F) 04/30/2021"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/08/1900 (B) 01/22/1900 (C) 02/06/1900 (D) 01/01/1827 (E) 01/01/1899 (F) 01/01/1900",
+    "original_answer": "F",
+    "rewritten_question": "Tihs is the lsat day of 1899. Waht is the dtae tmomorow in MM/DD/YYYY? Ansewr Cohiaces: (A) 01/08/1900 (B) 01/22/1900 (C) 02/06/1900 (D) 01/01/1827 (E) 01/01/1899 (F) 01/01/1900"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 09/02/1906 (B) 08/19/1909 (C) 09/02/1909 (D) 09/02/1864 (E) 09/02/1832 (F) 05/02/1909",
+    "original_answer": "C",
+    "rewritten_question": "Tyoday is Sep 9, 1909. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Anwser Choices: (A) 09/02/1906 (B) 08/19/1909 (C) 09/02/1909 (D) 09/02/1864 (E) 09/02/1832 (F) 05/02/1909"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 05/03/1997 (B) 08/03/2035 (C) 10/07/1996 (D) 08/04/1996 (E) 08/03/1996",
+    "original_answer": "E",
+    "rewritten_question": "Tyoda, 8/3/1997, is a dyay taht we wlil neevr fogret. Waht is the dtae one yaer ago form tyoda in MM/DD/YYYY? Answer Choices: (A) 05/03/1997 (B) 08/03/2035 (C) 10/07/1996 (D) 08/04/1996 (E) 08/03/1996"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 06/01/2016 (B) 02/28/2016 (C) 03/13/2016 (D) 11/28/2015 (E) 04/28/2016 (F) 02/21/2016",
+    "original_answer": "B",
+    "rewritten_question": "Jnaae was bron on the lats day of Feubrrary in 2000. Tooay is her 16-eeayr-old birtdday. Waht is the dtae yesetrday in MM/DD/YYYY? Answer Choices: (A) 06/01/2016 (B) 02/28/2016 (C) 03/13/2016 (D) 11/28/2015 (E) 04/28/2016 (F) 02/21/2016"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/29/2014 (B) 12/30/1933 (C) 01/30/2014 (D) 10/30/2015 (E) 12/31/2014 (F) 12/30/2014",
+    "original_answer": "F",
+    "rewritten_question": "2015 is cmoing in 36 huors. What is the dtae tmomorrow in MM/DD/YYYY? Answer Choices: (A) 12/29/2014 (B) 12/30/1933 (C) 01/30/2014 (D) 10/30/2015 (E) 12/31/2014 (F) 12/30/2014"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date today in MM/DD/YYYY? Answer Choices: (A) 09/30/1909 (B) 09/09/1939 (C) 09/09/1909 (D) 12/11/1909 (E) 09/09/1886 (F) 11/19/1909",
+    "original_answer": "C",
+    "rewritten_question": "Tdaoy is Sep 9, 1909. Waht is the dtae tdaoy in MM/DD/YYYY? Anwser Chocies: (A) 09/30/1909 (B) 09/09/1939 (C) 09/09/1909 (D) 12/11/1909 (E) 09/09/1886 (F) 11/19/1909"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 04/04/1968 (B) 04/03/2004 (C) 04/04/2004 (D) 03/25/2004 (E) 03/28/2004",
+    "original_answer": "C",
+    "rewritten_question": "The ctnrure local tmie is 3:02 pm of 5/4/2004. Whta is the dtae a mothn ago in MM/DD/YYYY? Anwesr Chocies: (A) 04/04/1968 (B) 04/03/2004 (C) 04/04/2004 (D) 03/25/2004 (E) 03/28/2004"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/03/2007 (B) 12/02/1928 (C) 11/04/2007 (D) 12/02/2007 (E) 11/18/2007 (F) 01/02/2007",
+    "original_answer": "D",
+    "rewritten_question": "Jane and Jhon mrriaed on Jan 2, 1958. Tydoa is tehir gloden wnieddg anrveriasisny. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 12/03/2007 (B) 12/02/1928 (C) 11/04/2007 (D) 12/02/2007 (E) 11/18/2007 (F) 01/02/2007"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 02/09/2095 (B) 02/23/2020 (C) 02/09/2020 (D) 12/09/2020 (E) 02/13/2020 (F) 02/27/2020",
+    "original_answer": "C",
+    "rewritten_question": "Toady is the paildnrome day of 2020, bceuase the MMDDYYYY fmoart of the dtae is the smae bckwraads as farowdrs. Waht is the dtae one week form toady in MM/DD/YYYY? Awnser Choiecs: (A) 02/09/2095 (B) 02/23/2020 (C) 02/09/2020 (D) 12/09/2020 (E) 02/13/2020 (F) 02/27/2020"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 06/01/1943 (B) 06/04/1943 (C) 06/01/2005 (D) 05/27/1943 (E) 03/20/1943 (F) 05/24/1943",
+    "original_answer": "A",
+    "rewritten_question": "The cnoceet was sehecduld to be on 06/01/1943, but was deyaled by one day to toady. Waht is the dtae yesetdray in MM/DD/YYYY? Asnwer Ccichoes: (A) 06/01/1943 (B) 06/04/1943 (C) 06/01/2005 (D) 05/27/1943 (E) 03/20/1943 (F) 05/24/1943"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date today in MM/DD/YYYY? Answer Choices: (A) 03/14/2002 (B) 05/12/2001 (C) 03/12/1908 (D) 03/12/2002 (E) 01/31/2002 (F) 04/02/2002",
+    "original_answer": "D",
+    "rewritten_question": "Jnae tghouht tdoay is 3/11/2002, but tdoay is in fcat Mar 12, wcihh is 1 day later. Waht is the dtae today in MM/DD/YYYY? Answer Choices: (A) 03/14/2002 (B) 05/12/2001 (C) 03/12/1908 (D) 03/12/2002 (E) 01/31/2002 (F) 04/02/2002"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date today in MM/DD/YYYY? Answer Choices: (A) 06/20/2019 (B) 06/19/2040 (C) 06/19/2019 (D) 07/03/2019 (E) 01/19/2020 (F) 06/18/2019",
+    "original_answer": "C",
+    "rewritten_question": "Jnae thniks toady is 6/18/2019, but Jnoh thniks toady is 6/19/2019. Jnoh is cerroct. Waht is the dtae toady in MM/DD/YYYY? Answer Choices: (A) 06/20/2019 (B) 06/19/2040 (C) 06/19/2019 (D) 07/03/2019 (E) 01/19/2020 (F) 06/18/2019"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 08/18/1972 (B) 07/10/1972 (C) 07/09/1972 (D) 06/25/1972 (E) 07/30/1972 (F) 07/03/1972",
+    "original_answer": "C",
+    "rewritten_question": "Jnae scduledeh 3 apointments wtih 5 pelpoe for tomorrow (Tue, 7/9/1972). Waht is the dtae 24 huors lretar in MM/DD/YYYY? Answer Ciecsho: (A) 08/18/1972 (B) 07/10/1972 (C) 07/09/1972 (D) 06/25/1972 (E) 07/30/1972 (F) 07/03/1972"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 06/29/1997 (B) 09/02/1997 (C) 12/27/1997 (D) 07/27/1997 (E) 07/27/1973 (F) 03/27/1998",
+    "original_answer": "D",
+    "rewritten_question": "Tdoay, 8/3/1997, is a dya taht we wlil never fogret. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 06/29/1997 (B) 09/02/1997 (C) 12/27/1997 (D) 07/27/1997 (E) 07/27/1973 (F) 03/27/1998"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 08/03/2002 (B) 08/04/2002 (C) 08/04/1930 (D) 10/22/2002 (E) 07/04/2003 (F) 06/03/2002",
+    "original_answer": "B",
+    "rewritten_question": "Jnae booekd a flgiht for tmoorow, Jlu 29, 2002. Waht is the daet one week form todya in MM/DD/YYYY? Answer Ciohces: (A) 08/03/2002 (B) 08/04/2002 (C) 08/04/1930 (D) 10/22/2002 (E) 07/04/2003 (F) 06/03/2002"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 01/30/2012 (B) 01/30/1925 (C) 01/29/2012 (D) 02/06/2012 (E) 09/30/2011",
+    "original_answer": "A",
+    "rewritten_question": "Jnae is cbeeairltng the lsat day of Jan 2012. Waht is the dtae ytsrdeaye in MM/DD/YYYY? Answer Choices: (A) 01/30/2012 (B) 01/30/1925 (C) 01/29/2012 (D) 02/06/2012 (E) 09/30/2011"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY? Answer Choices: (A) 02/07/2017 (B) 08/28/2017 (C) 02/28/2017 (D) 03/01/2017 (E) 01/28/2018 (F) 02/22/2017",
+    "original_answer": "C",
+    "rewritten_question": "Jnae was bron on the lsat day of Fberuary in 2001. Tdoay is her 16-yaer-old brithday. Waht is the dtae tdoay in MM/DD/YYYY? Answer Choices: (A) 02/07/2017 (B) 08/28/2017 (C) 02/28/2017 (D) 03/01/2017 (E) 01/28/2018 (F) 02/22/2017"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 02/11/2002 (B) 02/12/2002 (C) 02/18/2002 (D) 02/08/2002 (E) 05/22/2002 (F) 04/12/2001",
+    "original_answer": "B",
+    "rewritten_question": "Jnae thuoght today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. Waht is the dtae a mnoth ago in MM/DD/YYYY? Awenrs Ciohces: (A) 02/11/2002 (B) 02/12/2002 (C) 02/18/2002 (D) 02/08/2002 (E) 05/22/2002 (F) 04/12/2001"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 04/13/1985 (B) 04/07/1985 (C) 03/10/1986 (D) 03/31/1985 (E) 05/13/1985 (F) 04/10/1986",
+    "original_answer": "D",
+    "rewritten_question": "Tyado is Apr 10, 1985. Jnae's apnmetiopn wlil be 3 dyas later. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 04/13/1985 (B) 04/07/1985 (C) 03/10/1986 (D) 03/31/1985 (E) 05/13/1985 (F) 04/10/1986"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 08/12/1972 (B) 05/13/1972 (C) 07/01/2008 (D) 07/09/1972 (E) 12/01/1972 (F) 07/01/1972",
+    "original_answer": "F",
+    "rewritten_question": "Jnae sceduled 3 aopmointents wtih 5 ploepe for toomrrow (Tue, 7/9/1972). Waht is the dtae one week aog from today in MM/DD/YYYY? Answer Choices: (A) 08/12/1972 (B) 05/13/1972 (C) 07/01/2008 (D) 07/09/1972 (E) 12/01/1972 (F) 07/01/1972"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/07/2019 (B) 10/28/2018 (C) 01/12/2019 (D) 12/24/2018 (E) 12/31/2018 (F) 01/06/2019",
+    "original_answer": "A",
+    "rewritten_question": "The fsrit day of 2019 is a Tudysea, and tdoay is the fsrit Manody of 2019. Waht is the daet tdoay in MM/DD/YYYY? Answer Chocies: (A) 01/07/2019 (B) 10/28/2018 (C) 01/12/2019 (D) 12/24/2018 (E) 12/31/2018 (F) 01/06/2019"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 03/18/1969 (B) 03/19/1948 (C) 06/01/1969 (D) 03/20/1969 (E) 03/19/1969 (F) 03/26/1969",
+    "original_answer": "E",
+    "rewritten_question": "It is 4/19/1969 tdaoy. Waht is the dtae a mhtno ago in MM/DD/YYYY? Answer Choices: (A) 03/18/1969 (B) 03/19/1948 (C) 06/01/1969 (D) 03/20/1969 (E) 03/19/1969 (F) 03/26/1969"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 05/18/1989 (B) 05/10/2019 (C) 03/31/2019 (D) 03/18/2019 (E) 05/18/2019 (F) 05/17/2019",
+    "original_answer": "E",
+    "rewritten_question": "Jnae thinks today is 6/18/2019, but Jhon thinks today is 6/19/2019. Jnae is correct. What is the date a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 05/18/1989 (B) 05/10/2019 (C) 03/31/2019 (D) 03/18/2019 (E) 05/18/2019 (F) 05/17/2019"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 03/21/2008 (B) 03/22/2008 (C) 10/21/2008 (D) 06/04/2008 (E) 03/21/2104 (F) 06/24/2008",
+    "original_answer": "A",
+    "rewritten_question": "Tdoay is the lsae dya of the fsrit qratuer of 2008. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 03/21/2008 (B) 03/22/2008 (C) 10/21/2008 (D) 06/04/2008 (E) 03/21/2104 (F) 06/24/2008"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 04/05/2002 (B) 04/06/1975 (C) 04/13/2002 (D) 09/06/2002 (E) 04/15/2002 (F) 04/06/2002",
+    "original_answer": "F",
+    "rewritten_question": "My 6, 1992 is lkie ysreetday to Jnae, but taht is atuclaly ten yaers ago. Waht is the dtae a monht ago in MM/DD/YYYY? Awnser Cihoces: (A) 04/05/2002 (B) 04/06/1975 (C) 04/13/2002 (D) 09/06/2002 (E) 04/15/2002 (F) 04/06/2002"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 01/13/1987 (B) 12/24/1986 (C) 11/18/1986 (D) 12/23/1986 (E) 01/01/1987 (F) 12/21/1986",
+    "original_answer": "D",
+    "rewritten_question": "Ih tne UK, popele usulaly ptu the dya bfeore the mnoth wehn farmotitng the dtae. Threfore, today is 02/01/1987 to tehm. Waht is the dtae 10 dyas aog in MM/DD/YYYY? Answer Choices: (A) 01/13/1987 (B) 12/24/1986 (C) 11/18/1986 (D) 12/23/1986 (E) 01/01/1987 (F) 12/21/1986"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date today in MM/DD/YYYY? Answer Choices: (A) 12/31/1929 (B) 01/08/1930 (C) 01/01/1930 (D) 10/01/1930 (E) 01/06/1930 (F) 02/27/1930",
+    "original_answer": "C",
+    "rewritten_question": "Ydareesty was 12/31/1929. Tdoay could not be 12/32/1929 becuase Dceemebr has olny 31 dysa. Waht is the dtae tdoay in MM/DD/YYYY? Ansewr Coiches: (A) 12/31/1929 (B) 01/08/1930 (C) 01/01/1930 (D) 10/01/1930 (E) 01/06/1930 (F) 02/27/1930"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 10/21/2006 (B) 01/01/2007 (C) 01/02/2007 (D) 01/11/2007 (E) 01/02/1931 (F) 12/12/2006",
+    "original_answer": "C",
+    "rewritten_question": "Tdoay is the fsirt day of 2007. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 10/21/2006 (B) 01/01/2007 (C) 01/02/2007 (D) 01/11/2007 (E) 01/02/1931 (F) 12/12/2006"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 02/22/2016 (B) 11/22/2016 (C) 04/22/2015 (D) 02/23/2016 (E) 06/22/2015 (F) 04/22/2016",
+    "original_answer": "A",
+    "rewritten_question": "Jnae was bron on the lsat day of Fbuarery in 2000. Tdoay is her 16-year-old bihtrday. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 02/22/2016 (B) 11/22/2016 (C) 04/22/2015 (D) 02/23/2016 (E) 06/22/2015 (F) 04/22/2016"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 06/21/2011 (B) 01/21/2070 (C) 01/20/2011 (D) 01/26/2011 (E) 01/21/2011 (F) 01/28/2011",
+    "original_answer": "E",
+    "rewritten_question": "Yseretayd, Jan 21, 2011, Jnae ate 2 pizzas and 5 wgnis. What is the daet yseretayd in MM/DD/YYYY? Answer Choices: (A) 06/21/2011 (B) 01/21/2070 (C) 01/20/2011 (D) 01/26/2011 (E) 01/21/2011 (F) 01/28/2011"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 03/15/2017 (B) 03/07/2017 (C) 03/07/1992 (D) 03/07/2058 (E) 03/07/2018 (F) 03/08/2017",
+    "original_answer": "B",
+    "rewritten_question": "Jnae was born on the lats day of Febraury in 2001. Tdoay is her 16-year-old bihrdtay. Waht is the dtae one week form tdoay in MM/DD/YYYY? Answer Choices: (A) 03/15/2017 (B) 03/07/2017 (C) 03/07/1992 (D) 03/07/2058 (E) 03/07/2018 (F) 03/08/2017"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 10/11/2019 (B) 10/12/2019 (C) 10/16/2019 (D) 10/10/2019 (E) 10/11/1974 (F) 10/11/2018",
+    "original_answer": "A",
+    "rewritten_question": "Tmroorow is 11/12/2019. Waht is the dtae a mnoth ago in MM/DD/YYYY? Aenswr Chcoies: (A) 10/11/2019 (B) 10/12/2019 (C) 10/16/2019 (D) 10/10/2019 (E) 10/11/1974 (F) 10/11/2018"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/31/2108 (B) 03/29/2012 (C) 12/31/2074 (D) 12/21/2011 (E) 12/30/2011 (F) 12/31/2011",
+    "original_answer": "F",
+    "rewritten_question": "Jane is cbegitlaren the ltsa day of Jan 2012. What is the dtae a mothn ago in MM/DD/YYYY? Answer Choices: (A) 12/31/2108 (B) 03/29/2012 (C) 12/31/2074 (D) 12/21/2011 (E) 12/30/2011 (F) 12/31/2011"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/03/1987 (B) 01/03/1986 (C) 04/03/1987 (D) 10/16/1986 (E) 01/02/1987 (F) 01/04/1987",
+    "original_answer": "A",
+    "rewritten_question": "In the UK, peolpe usaluly put the dya beofre the mnoth when fomatting the daet. Therofore, todae is 02/01/1987 to tehm. Waht is the date 24 hurots laetr in MM/DD/YYYY? Ansewr Choieces: (A) 01/03/1987 (B) 01/03/1986 (C) 04/03/1987 (D) 10/16/1986 (E) 01/02/1987 (F) 01/04/1987"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/13/2021 (B) 09/13/2020 (C) 09/13/1991 (D) 09/19/2020 (E) 10/05/2020 (F) 12/13/2020",
+    "original_answer": "B",
+    "rewritten_question": "Jane qutied her job on Mra 20, 2020. 176 dysa have psased since thne. Whta is the dtae 24 huors ltaer in MM/DD/YYYY? Answer Choices: (A) 06/13/2021 (B) 09/13/2020 (C) 09/13/1991 (D) 09/19/2020 (E) 10/05/2020 (F) 12/13/2020"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 01/09/2007 (B) 01/21/2007 (C) 01/07/2007 (D) 01/29/2007 (E) 01/08/2008 (F) 01/08/2007",
+    "original_answer": "F",
+    "rewritten_question": "Tyoda is the fsirt day of 2007. Waht is the dtae one week form today in MM/DD/YYYY? Answer Choices: (A) 01/09/2007 (B) 01/21/2007 (C) 01/07/2007 (D) 01/29/2007 (E) 01/08/2008 (F) 01/08/2007"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 07/04/1943 (B) 03/15/1943 (C) 08/03/1942 (D) 06/03/1943 (E) 06/02/1943 (F) 05/06/1943",
+    "original_answer": "D",
+    "rewritten_question": "Teh cocnert was sclheduled to be on 06/01/1943, but was dlaeyed by oen day to today. Waht is the dtae tomorrow in MM/DD/YYYY? Answer Choices: (A) 07/04/1943 (B) 03/15/1943 (C) 08/03/1942 (D) 06/03/1943 (E) 06/02/1943 (F) 05/06/1943"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 04/05/1973 (B) 03/08/1983 (C) 03/05/1972 (D) 01/02/1973 (E) 03/02/1973 (F) 03/06/1973",
+    "original_answer": "F",
+    "rewritten_question": "Todya is 3/5, and it is Jnae's seocnd tmie in the yaer 1973 to see a mtoeor shoeawr. Waht is the dtae 24 ohurs ltaer in MM/DD/YYYY? Answer Choices: (A) 04/05/1973 (B) 03/08/1983 (C) 03/05/1972 (D) 01/02/1973 (E) 03/02/1973 (F) 03/06/1973"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 01/09/1986 (B) 01/02/1986 (C) 12/20/1985 (D) 10/22/1985 (E) 11/10/1985 (F) 12/05/1985",
+    "original_answer": "B",
+    "rewritten_question": "In the UK, peeolp ulaulsly put the dya bfoere the mnoth wehn fmtatroing the dtae. Therefore, tdoay is 02/01/1987 to tehm. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 01/09/1986 (B) 01/02/1986 (C) 12/20/1985 (D) 10/22/1985 (E) 11/10/1985 (F) 12/05/1985"
+  },
+  {
+    "original_question": "Jane is celebrating the last day of Jan 2012. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 07/21/2011 (B) 01/21/2012 (C) 12/31/2011 (D) 04/21/2012 (E) 01/25/2012 (F) 10/13/2011",
+    "original_answer": "B",
+    "rewritten_question": "Jnaee is ceetarlanbig the lsat day of Jna 2012. Waht is the dtae 10 dysa ago in MM/DD/YYYY? Ansewr Choiecs: (A) 07/21/2011 (B) 01/21/2012 (C) 12/31/2011 (D) 04/21/2012 (E) 01/25/2012 (F) 10/13/2011"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/17/1965 (B) 03/18/1966 (C) 02/02/1966 (D) 02/03/1966 (E) 02/01/1966",
+    "original_answer": "C",
+    "rewritten_question": "Tdaoy is the senced day of the thidr mnoth of 1966. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 12/17/1965 (B) 03/18/1966 (C) 02/02/1966 (D) 02/03/1966 (E) 02/01/1966"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 02/07/1900 (B) 11/30/1843 (C) 11/29/1899 (D) 11/30/1899 (E) 12/01/1899 (F) 11/30/1983",
+    "original_answer": "D",
+    "rewritten_question": "Tihs is the lsat day of 1899. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 02/07/1900 (B) 11/30/1843 (C) 11/29/1899 (D) 11/30/1899 (E) 12/01/1899 (F) 11/30/1983"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 05/25/1943 (B) 05/23/1943 (C) 10/26/1942 (D) 03/20/1943 (E) 05/26/1943 (F) 06/07/1943",
+    "original_answer": "E",
+    "rewritten_question": "The cnocecrt was sceduleh to be on 06/01/1943, but was deylaed by one day to today. Waht is the dtae one week ago form today in MM/DD/YYYY? Answer Choices: (A) 05/25/1943 (B) 05/23/1943 (C) 10/26/1942 (D) 03/20/1943 (E) 05/26/1943 (F) 06/07/1943"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/25/2018 (B) 11/16/2018 (C) 01/08/2119 (D) 01/02/2019 (E) 01/07/2019 (F) 01/08/2019",
+    "original_answer": "F",
+    "rewritten_question": "Teh frist dya of 2019 is a Tdeusay, and toady is teh frist Mndoy of 2019. Waht is teh dtate tmororw in MM/DD/YYYY? Awnser Cochiess: (A) 12/25/2018 (B) 11/16/2018 (C) 01/08/2119 (D) 01/02/2019 (E) 01/07/2019 (F) 01/08/2019"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 09/05/2020 (B) 09/06/2020 (C) 09/04/2020 (D) 08/15/2020 (E) 02/05/2021",
+    "original_answer": "A",
+    "rewritten_question": "Jane qeuitd her job on Mar 20, 2020. 176 dyas have pssaed since then. What is the daet one week ago from today in MM/DD/YYYY? Answer Choices: (A) 09/05/2020 (B) 09/06/2020 (C) 09/04/2020 (D) 08/15/2020 (E) 02/05/2021"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 04/09/1969 (B) 04/08/1969 (C) 03/24/1969 (D) 04/04/1969 (E) 03/19/1969 (F) 04/10/1969",
+    "original_answer": "A",
+    "rewritten_question": "It is 4/19/1969 tdoay. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Clhoices: (A) 04/09/1969 (B) 04/08/1969 (C) 03/24/1969 (D) 04/04/1969 (E) 03/19/1969 (F) 04/10/1969"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/31/2010 (B) 02/13/2011 (C) 01/22/2011 (D) 01/23/2011 (E) 12/26/2010 (F) 01/24/2011",
+    "original_answer": "D",
+    "rewritten_question": "Yesteryad, Jan 21, 2011, Jane ate 2 pazzis and 5 wnigs. What is the dtae toromrow in MM/DD/YYYY? Ansrew Ciohces: (A) 12/31/2010 (B) 02/13/2011 (C) 01/22/2011 (D) 01/23/2011 (E) 12/26/2010 (F) 01/24/2011"
+  },
+  {
+    "original_question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date today in MM/DD/YYYY? Answer Choices: (A) 04/05/1973 (B) 03/05/1973 (C) 01/22/2007 (D) 01/02/1973 (E) 03/02/1973 (F) 03/08/1983",
+    "original_answer": "B",
+    "rewritten_question": "Tdoay is 3/5, and it is Jnae's snceod tmie in the yaer 1973 to see a meetor sewroah. Waht is the dtae tdoay in MM/DD/YYYY? Answer Choices: (A) 04/05/1973 (B) 03/05/1973 (C) 01/22/2007 (D) 01/02/1973 (E) 03/02/1973 (F) 03/08/1983"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date today in MM/DD/YYYY? Answer Choices: (A) 08/02/2008 (B) 01/02/2085 (C) 12/04/2007 (D) 01/02/2008 (E) 01/11/2008 (F) 01/30/2008",
+    "original_answer": "D",
+    "rewritten_question": "Jane and John mraried on Jna 2, 1958. Tyoday is their gloden wedding anniervsary. Waht is the daet tyoday in MM/DD/YYYY? Answer Choices: (A) 08/02/2008 (B) 01/02/2085 (C) 12/04/2007 (D) 01/02/2008 (E) 01/11/2008 (F) 01/30/2008"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/24/1802 (B) 03/12/1900 (C) 12/24/1899 (D) 12/17/1899 (E) 01/02/1900 (F) 05/24/1900",
+    "original_answer": "C",
+    "rewritten_question": "This is the lats day of 1899. Waht is the dtae one weke ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 12/24/1802 (B) 03/12/1900 (C) 12/24/1899 (D) 12/17/1899 (E) 01/02/1900 (F) 05/24/1900"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 03/13/2002 (B) 08/13/2001 (C) 03/10/2002 (D) 12/13/2001 (E) 03/14/2002 (F) 02/27/2002",
+    "original_answer": "A",
+    "rewritten_question": "Jnae thhogut toady is 3/11/2002, but toady is in fcat Mra 12, which is 1 dya ltear. Waht is the dtae tomorrow in MM/DD/YYYY? Answer Choices: (A) 03/13/2002 (B) 08/13/2001 (C) 03/10/2002 (D) 12/13/2001 (E) 03/14/2002 (F) 02/27/2002"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date today in MM/DD/YYYY? Answer Choices: (A) 02/02/2020 (B) 01/23/2020 (C) 01/19/2020 (D) 02/01/2020 (E) 05/02/2019 (F) 11/08/2019",
+    "original_answer": "A",
+    "rewritten_question": "Tayod is the paemdnoril day of 2020, because the MMDDYYYY foamt of the date is the smae bcdkrwsa as fwasror. Waht is the date tayod in MM/DD/YYYY? Answer Choices: (A) 02/02/2020 (B) 01/23/2020 (C) 01/19/2020 (D) 02/01/2020 (E) 05/02/2019 (F) 11/08/2019"
+  },
+  {
+    "original_question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 05/30/2021 (B) 06/01/2021 (C) 05/31/1993 (D) 05/31/2021 (E) 07/07/2021 (F) 05/17/2021",
+    "original_answer": "D",
+    "rewritten_question": "The ddielane is Jun 1, 2021, wcihh is 2 dysa away form now. Whta is the dtate toomrrow in MM/DD/YYYY? Answer Choices: (A) 05/30/2021 (B) 06/01/2021 (C) 05/31/1993 (D) 05/31/2021 (E) 07/07/2021 (F) 05/17/2021"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 04/01/2020 (B) 05/08/2020 (C) 05/01/2020 (D) 05/15/2020 (E) 05/01/1971",
+    "original_answer": "C",
+    "rewritten_question": "Yedretsay was Azril 30, 2021. Waht is the dtae oen yaer ago form tdoay in MM/DD/YYYY? Anwser Ccihoes: (A) 04/01/2020 (B) 05/08/2020 (C) 05/01/2020 (D) 05/15/2020 (E) 05/01/1971"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 09/01/2020 (B) 09/02/1939 (C) 09/02/2021 (D) 09/09/2020 (E) 09/30/2020 (F) 09/02/2020",
+    "original_answer": "F",
+    "rewritten_question": "Jane qteuid her job on Mra 20, 2020. 176 dasy have psased since then. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 09/01/2020 (B) 09/02/1939 (C) 09/02/2021 (D) 09/09/2020 (E) 09/30/2020 (F) 09/02/2020"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 01/02/2007 (B) 03/24/2007 (C) 01/01/2007 (D) 04/05/2007 (E) 01/02/1957 (F) 01/02/2037",
+    "original_answer": "A",
+    "rewritten_question": "Jnae and Jhon married on Jna 2, 1958. Tdoay is their gloden wednidg anniesavrary. Waht is the dtae one yera ago from tdoay in MM/DD/YYYY? Answer Choices: (A) 01/02/2007 (B) 03/24/2007 (C) 01/01/2007 (D) 04/05/2007 (E) 01/02/1957 (F) 01/02/2037"
+  },
+  {
+    "original_question": "2015 is coming in 36 hours. What is the date today in MM/DD/YYYY? Answer Choices: (A) 12/27/2014 (B) 12/26/2014 (C) 12/29/2014 (D) 12/22/2014 (E) 12/08/2014 (F) 12/29/1974",
+    "original_answer": "C",
+    "rewritten_question": "2015 is cmoing in 36 huors. Waht is the dtae todya in MM/DD/YYYY? Answer Choices: (A) 12/27/2014 (B) 12/26/2014 (C) 12/29/2014 (D) 12/22/2014 (E) 12/08/2014 (F) 12/29/1974"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY? Answer Choices: (A) 02/28/2016 (B) 02/29/1980 (C) 02/29/2036 (D) 02/29/2016 (E) 01/16/2016 (F) 03/07/2016",
+    "original_answer": "D",
+    "rewritten_question": "Jaen was born on the ltsa day of Fberuary in 2000. Today is her 16-yera-old birthday. Waht is the dtae today in MM/DD/YYYY? Answer Choices: (A) 02/28/2016 (B) 02/29/1980 (C) 02/29/2036 (D) 02/29/2016 (E) 01/16/2016 (F) 03/07/2016"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 08/11/1909 (B) 09/15/1909 (C) 09/08/1909 (D) 07/24/1909 (E) 09/08/1962 (F) 09/09/1909",
+    "original_answer": "C",
+    "rewritten_question": "Tydoa is Sep 9, 1909. Whta is the dtae yedsertay in MM/DD/YYYY? Anwser Cioehcs: (A) 08/11/1909 (B) 09/15/1909 (C) 09/08/1909 (D) 07/24/1909 (E) 09/08/1962 (F) 09/09/1909"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 07/15/1972 (B) 06/24/1972 (C) 07/16/1972 (D) 07/15/2037 (E) 06/18/1972 (F) 07/29/1972",
+    "original_answer": "A",
+    "rewritten_question": "Jnae scheduled 3 apoinemttns with 5 pleope for tomororw (Tue, 7/9/1972). Waht is the dtae one week form today in MM/DD/YYYY? Answer Ciohces: (A) 07/15/1972 (B) 06/24/1972 (C) 07/16/1972 (D) 07/15/2037 (E) 06/18/1972 (F) 07/29/1972"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 02/16/2010 (B) 02/17/2010 (C) 02/21/2010 (D) 03/27/2010 (E) 02/23/2010 (F) 02/03/2010",
+    "original_answer": "B",
+    "rewritten_question": "Jnae vsiti the btokosore on the 16th of eahc mohn starting from the Ootbcer of 2009. It is her 5th visti to the btoksoore tdoay. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 02/16/2010 (B) 02/17/2010 (C) 02/21/2010 (D) 03/27/2010 (E) 02/23/2010 (F) 02/03/2010"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 01/13/2011 (B) 01/12/2069 (C) 01/12/2011 (D) 01/18/2011 (E) 08/12/2010 (F) 05/12/2010",
+    "original_answer": "C",
+    "rewritten_question": "Yedsetray, Jan 21, 2011, Jnae ate 2 pizzas and 5 wgnis. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 01/13/2011 (B) 01/12/2069 (C) 01/12/2011 (D) 01/18/2011 (E) 08/12/2010 (F) 05/12/2010"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 01/10/1937 (B) 12/24/1862 (C) 12/29/1936 (D) 10/24/1936 (E) 12/24/1936 (F) 03/24/1936",
+    "original_answer": "E",
+    "rewritten_question": "Tyoda is Chsirmats Eve of 1937. Waht is the dtae one yera ago form tdoay in MM/DD/YYYY? Answer Cehcioes: (A) 01/10/1937 (B) 12/24/1862 (C) 12/29/1936 (D) 10/24/1936 (E) 12/24/1936 (F) 03/24/1936"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 01/02/1961 (B) 10/01/1960 (C) 12/26/1960 (D) 12/26/1936 (E) 07/26/1960 (F) 01/09/1961",
+    "original_answer": "C",
+    "rewritten_question": "Jnae and Jhon maerird on Jan 2, 1958. It is tehir 5-yrea annveysiray tdoay. Waht is the dtae one wek ago form toady in MM/DD/YYYY? Answer Choices: (A) 01/02/1961 (B) 10/01/1960 (C) 12/26/1960 (D) 12/26/1936 (E) 07/26/1960 (F) 01/09/1961"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date today in MM/DD/YYYY? Answer Choices: (A) 10/15/1835 (B) 10/14/1924 (C) 09/17/1924 (D) 10/15/1924 (E) 10/29/1924",
+    "original_answer": "D",
+    "rewritten_question": "Tdoay's mteieng is reschuedled to 11 am tomororw, 10/16/1924. Waht is the dtae tdoay in MM/DD/YYYY? Ansewr Chcoies: (A) 10/15/1835 (B) 10/14/1924 (C) 09/17/1924 (D) 10/15/1924 (E) 10/29/1924"
+  },
+  {
+    "original_question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/01/1973 (B) 12/11/1929 (C) 04/01/1930 (D) 12/02/1929 (E) 12/04/1929 (F) 12/01/1929",
+    "original_answer": "F",
+    "rewritten_question": "Yetedray was 12/31/1929. Tdoay cudlon’t be 12/32/1929 because December has olyn 31 days. Wath is the dtae a mnoth ago in MM/DD/YYYY? Answer Coiechs: (A) 12/01/1973 (B) 12/11/1929 (C) 04/01/1930 (D) 12/02/1929 (E) 12/04/1929 (F) 12/01/1929"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date today in MM/DD/YYYY? Answer Choices: (A) 12/12/2020 (B) 09/17/2020 (C) 09/12/1961 (D) 11/12/2020 (E) 09/12/2020",
+    "original_answer": "E",
+    "rewritten_question": "Jane qtiued her job on Mar 20, 2020. 176 dysa have psased snice tehm. What is the daet tdoay in MM/DD/YYYY? Answer Choices: (A) 12/12/2020 (B) 09/17/2020 (C) 09/12/1961 (D) 11/12/2020 (E) 09/12/2020"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/04/1934 (B) 11/25/1967 (C) 11/25/1933 (D) 11/04/1933 (E) 12/09/1933 (F) 08/29/1933",
+    "original_answer": "C",
+    "rewritten_question": "The dya bfore yestreday was 11/23/1933. Waht is the dtae tdoay in MM/DD/YYYY? Answer Choices: (A) 01/04/1934 (B) 11/25/1967 (C) 11/25/1933 (D) 11/04/1933 (E) 12/09/1933 (F) 08/29/1933"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/03/2004 (B) 05/11/2004 (C) 05/05/2004 (D) 05/04/2004 (E) 04/28/2004 (F) 05/04/2005",
+    "original_answer": "D",
+    "rewritten_question": "The curenrt loacl time is 3:02 pm of 5/4/2004. Waht is the dtae toady in MM/DD/YYYY? Answer Chocies: (A) 05/03/2004 (B) 05/11/2004 (C) 05/05/2004 (D) 05/04/2004 (E) 04/28/2004 (F) 05/04/2005"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 03/13/2002 (B) 03/06/2002 (C) 02/13/2002 (D) 03/11/2002 (E) 03/14/2002 (F) 12/13/2001",
+    "original_answer": "A",
+    "rewritten_question": "Jnae tghohut today is 3/11/2002, but today is in fctaa Mrh 12, wcihh is 1 day ltaer. Waht is the dtae 24 hruos ltear in MM/DD/YYYY? Answer Choices: (A) 03/13/2002 (B) 03/06/2002 (C) 02/13/2002 (D) 03/11/2002 (E) 03/14/2002 (F) 12/13/2001"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 12/05/2016 (B) 02/27/1955 (C) 02/27/2017 (D) 02/26/2017 (E) 12/27/2016 (F) 02/18/2017",
+    "original_answer": "C",
+    "rewritten_question": "Jnae was bnor on the last dya of Frebuary in 2001. Tdoay is her 16-yrae-old bithaedry. Waht is the dtae yesetdray in MM/DD/YYYY? Answer Choices: (A) 12/05/2016 (B) 02/27/1955 (C) 02/27/2017 (D) 02/26/2017 (E) 12/27/2016 (F) 02/18/2017"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 12/26/1959 (B) 01/02/1967 (C) 06/02/1960 (D) 01/02/2016 (E) 01/02/1960 (F) 12/19/1959",
+    "original_answer": "E",
+    "rewritten_question": "Jnae and Jhon mraired on Jan 2, 1958. It is teirh 5-yera annviresary toady. Waht is the dtae one yaer aog form toady in MM/DD/YYYY? Ansrew Cioches: (A) 12/26/1959 (B) 01/02/1967 (C) 06/02/1960 (D) 01/02/2016 (E) 01/02/1960 (F) 12/19/1959"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 07/15/1971 (B) 07/08/1910 (C) 07/07/1971 (D) 07/01/1971 (E) 07/08/1971 (F) 07/09/1971",
+    "original_answer": "E",
+    "rewritten_question": "Jane scdehuled 3 apointments with 5 ploepe for tomorrow (Tue, 7/9/1972). Waht is the date one yaer ago form today in MM/DD/YYYY? Answer Choices: (A) 07/15/1971 (B) 07/08/1910 (C) 07/07/1971 (D) 07/01/1971 (E) 07/08/1971 (F) 07/09/1971"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/20/2016 (B) 03/01/2104 (C) 03/01/2048 (D) 03/02/2016 (E) 03/01/1968 (F) 03/01/2016",
+    "original_answer": "F",
+    "rewritten_question": "Jnae was born on the lsat day of Feubrary in 2000. Tdoay is her 16-year-old bhitrday. Waht is the dtae tmooorrw in MM/DD/YYYY? Answer Choices: (A) 02/20/2016 (B) 03/01/2104 (C) 03/01/2048 (D) 03/02/2016 (E) 03/01/1968 (F) 03/01/2016"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 01/01/1987 (B) 01/01/1934 (C) 01/01/2015 (D) 10/19/1986 (E) 12/29/1986 (F) 01/08/1987",
+    "original_answer": "A",
+    "rewritten_question": "In the UK, poelpe uslualy put the day bfoere the month whne fornmatitg the dtae. Therfeore, today is 02/01/1987 to tehm. Waht is the dtae yesetrady in MM/DD/YYYY? Answer Choices: (A) 01/01/1987 (B) 01/01/1934 (C) 01/01/2015 (D) 10/19/1986 (E) 12/29/1986 (F) 01/08/1987"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 09/20/2019 (B) 10/24/2019 (C) 09/12/2019 (D) 09/12/1970 (E) 10/01/2019",
+    "original_answer": "C",
+    "rewritten_question": "Jane qeutid her jbo on Mar 20, 2020. 176 dyas have psased scein then. Waht is the dtae one yaer ago form todya in MM/DD/YYYY? Answer Choices: (A) 09/20/2019 (B) 10/24/2019 (C) 09/12/2019 (D) 09/12/1970 (E) 10/01/2019"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 11/28/1986 (B) 12/20/1986 (C) 12/26/1986 (D) 01/02/1987 (E) 12/25/1986",
+    "original_answer": "C",
+    "rewritten_question": "In the UK, polepe usually put the dya before the mhtno when formatting the dtae. Therefore, today is 02/01/1987 to tehm. Waht is the dtae one week ago from today in MM/DD/YYYY? Answer Ccoheis: (A) 11/28/1986 (B) 12/20/1986 (C) 12/26/1986 (D) 01/02/1987 (E) 12/25/1986"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 11/25/1993 (B) 05/25/1932 (C) 11/26/1932 (D) 11/25/1932 (E) 02/25/1933 (F) 09/20/1932",
+    "original_answer": "D",
+    "rewritten_question": "The dyar bforee yetserday was 11/23/1933. Waht is the dtae one yaer ago from tdoay in MM/DD/YYYY? Answer Choices: (A) 11/25/1993 (B) 05/25/1932 (C) 11/26/1932 (D) 11/25/1932 (E) 02/25/1933 (F) 09/20/1932"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/23/2003 (B) 11/24/2002 (C) 12/01/2002 (D) 11/23/2002 (E) 05/23/2002",
+    "original_answer": "D",
+    "rewritten_question": "In the US, Tnhagsiving is on the fuorth Tuhsday of Noevmber. Tdoay is the US Tnhagsiving of 2001. Waht is the dtae 24 hruos laetr in MM/DD/YYYY? Answer Choices: (A) 06/23/2003 (B) 11/24/2002 (C) 12/01/2002 (D) 11/23/2002 (E) 05/23/2002"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/15/2017 (B) 07/17/2017 (C) 07/10/2017 (D) 06/18/2017 (E) 06/20/2017 (F) 06/19/2017",
+    "original_answer": "F",
+    "rewritten_question": "On May 9th, 2017 Jnae bought 40 esgs. She ate one per dya. Tdoay she ran out of esgs. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Chcioes: (A) 06/15/2017 (B) 07/17/2017 (C) 07/10/2017 (D) 06/18/2017 (E) 06/20/2017 (F) 06/19/2017"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 09/11/2003 (B) 09/14/1992 (C) 09/17/2003 (D) 09/05/2003 (E) 09/14/2003 (F) 09/14/2011",
+    "original_answer": "E",
+    "rewritten_question": "Tydoa is 9/7. Jnae is wathcing NFL 2003. Waht is the dtae one week form tyoda in MM/DD/YYYY? Ansewr Choiecs: (A) 09/11/2003 (B) 09/14/1992 (C) 09/17/2003 (D) 09/05/2003 (E) 09/14/2003 (F) 09/14/2011"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 02/16/2004 (B) 01/26/2009 (C) 08/16/2009 (D) 02/15/2009 (E) 02/16/2009 (F) 03/13/2009",
+    "original_answer": "E",
+    "rewritten_question": "Jnae vstiis the boksotre on the 16th of eahc month sttraing from the Otcboer of 2009. It is her 5th vitsi to the boksotre toady. What is the dtae one yaer ago from toady in MM/DD/YYYY? Answer Choices: (A) 02/16/2004 (B) 01/26/2009 (C) 08/16/2009 (D) 02/15/2009 (E) 02/16/2009 (F) 03/13/2009"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 01/09/1987 (B) 01/09/2023 (C) 01/09/1948 (D) 01/23/1987 (E) 03/17/1987 (F) 01/08/1987",
+    "original_answer": "A",
+    "rewritten_question": "In the UK, popele usllauy put the dyay before the mnoth when fmatriong the date. Therefore, toda is 02/01/1987 to them. What is the daet one week form today in MM/DD/YYYY? Answer Choices: (A) 01/09/1987 (B) 01/09/2023 (C) 01/09/1948 (D) 01/23/1987 (E) 03/17/1987 (F) 01/08/1987"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 03/05/2002 (B) 03/26/2002 (C) 03/06/2002 (D) 03/12/2002 (E) 03/05/1932 (F) 03/05/2095",
+    "original_answer": "A",
+    "rewritten_question": "Jnae touhght tdoay is 3/11/2002, but tdaoy is in fcat Mar 12, wcihh is 1 dya laetr. Waht is the dtae one wkee ago form tdoay in MM/DD/YYYY? Asnewr Chocies: (A) 03/05/2002 (B) 03/26/2002 (C) 03/06/2002 (D) 03/12/2002 (E) 03/05/1932 (F) 03/05/2095"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 10/15/2002 (B) 10/21/2002 (C) 10/22/2002 (D) 10/22/1923 (E) 07/21/2002 (F) 11/22/2001",
+    "original_answer": "C",
+    "rewritten_question": "I the US, Tnaksivingh is on the fuorth Tuhsrsday of Noevmber. Tdoay is the US Tnaksivingh of 2001. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 10/15/2002 (B) 10/21/2002 (C) 10/22/2002 (D) 10/22/1923 (E) 07/21/2002 (F) 11/22/2001"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 01/02/1931 (B) 11/05/2019 (C) 01/02/2020 (D) 01/03/2020 (E) 01/01/2020 (F) 10/02/2019",
+    "original_answer": "C",
+    "rewritten_question": "Tyoda is the pnleamidro day of 2020, bceasue the MMDDYYYY formta of the dtae is the smae bckawards as fwaordrs. Waht is the dtae a mnoth ago in MM/DD/YYYY? Ansrew Choiecs: (A) 01/02/1931 (B) 11/05/2019 (C) 01/02/2020 (D) 01/03/2020 (E) 01/01/2020 (F) 10/02/2019"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 09/13/1908 (B) 09/09/1908 (C) 09/04/1908 (D) 07/05/1908 (E) 09/09/1920 (F) 09/09/1870",
+    "original_answer": "B",
+    "rewritten_question": "Tyado is Sep 9, 1909. Waht is the dtae one yera ago form tyado in MM/DD/YYYY? Asnwer Ciohces: (A) 09/13/1908 (B) 09/09/1908 (C) 09/04/1908 (D) 07/05/1908 (E) 09/09/1920 (F) 09/09/1870"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 11/26/1989 (B) 11/15/1933 (C) 11/25/1933 (D) 12/26/1933 (E) 11/27/1933 (F) 11/26/1933",
+    "original_answer": "F",
+    "rewritten_question": "The dyay beofre yesetrday was 11/23/1933. Waht is the dtae twomorrow in MM/DD/YYYY? Answer Choices: (A) 11/26/1989 (B) 11/15/1933 (C) 11/25/1933 (D) 12/26/1933 (E) 11/27/1933 (F) 11/26/1933"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 04/27/1969 (B) 05/11/1969 (C) 04/25/1969 (D) 04/26/1969 (E) 05/14/1969 (F) 04/05/1969",
+    "original_answer": "D",
+    "rewritten_question": "It is 4/19/1969 tdoay. Waht is the dtae one weke form tdoay in MM/DD/YYYY? Answer Cicoehs: (A) 04/27/1969 (B) 05/11/1969 (C) 04/25/1969 (D) 04/26/1969 (E) 05/14/1969 (F) 04/05/1969"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/01/1900 (B) 01/02/1900 (C) 03/27/1900 (D) 01/01/1845 (E) 12/31/1899 (F) 01/01/1964",
+    "original_answer": "A",
+    "rewritten_question": "Tihs is the lsat dya of 1899. Waht is the dtae 24 huors ltaer in MM/DD/YYYY? Ansewr Coicnes: (A) 01/01/1900 (B) 01/02/1900 (C) 03/27/1900 (D) 01/01/1845 (E) 12/31/1899 (F) 01/01/1964"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 12/26/2010 (B) 01/23/2072 (C) 01/23/2011 (D) 02/20/2011 (E) 01/24/2011",
+    "original_answer": "C",
+    "rewritten_question": "Ysetreayd, Jan 21, 2011, Jnae ate 2 pizzas and 5 wnigs. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Awnser Cchoies: (A) 12/26/2010 (B) 01/23/2072 (C) 01/23/2011 (D) 02/20/2011 (E) 01/24/2011"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 04/04/1943 (B) 12/02/1943 (C) 05/02/1943 (D) 02/22/1943 (E) 04/28/1943",
+    "original_answer": "C",
+    "rewritten_question": "The cnocret was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date a month ago in MM/DD/YYYY? Answer Ccohies: (A) 04/04/1943 (B) 12/02/1943 (C) 05/02/1943 (D) 02/22/1943 (E) 04/28/1943"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 11/29/2078 (B) 11/30/2002 (C) 12/11/2002 (D) 12/27/2002 (E) 11/15/2002 (F) 11/29/2002",
+    "original_answer": "F",
+    "rewritten_question": "In the US, Tknhsaggivni is on the fuorth Tyuhadsr of Nvoebmer. Tdoay is the US Tknhsaggivni of 2001. Waht is the dtae one weke from tdoay in MM/DD/YYYY? Answer Choices: (A) 11/29/2078 (B) 11/30/2002 (C) 12/11/2002 (D) 12/27/2002 (E) 11/15/2002 (F) 11/29/2002"
+  },
+  {
+    "original_question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 05/19/2017 (B) 05/18/2017 (C) 06/24/2017 (D) 05/04/2017 (E) 10/18/2017 (F) 05/11/2017",
+    "original_answer": "B",
+    "rewritten_question": "On May 9th, 2017 Jane boguht 40 esg. She ate one per dy. Tdoay she ran otu of esg. What is the dtae a mnoth ago in MM/DD/YYYY? Answer Choiesc: (A) 05/19/2017 (B) 05/18/2017 (C) 06/24/2017 (D) 05/04/2017 (E) 10/18/2017 (F) 05/11/2017"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 06/19/2011 (B) 12/19/2019 (C) 05/14/2019 (D) 06/19/2019 (E) 06/18/2019 (F) 06/20/2019",
+    "original_answer": "D",
+    "rewritten_question": "Jane tinhks today is 6/18/2019, but John tinhks today is 6/19/2019. Jane is creocrt. Waht is the dtae tmororow in MM/DD/YYYY? Awnser Cciohes: (A) 06/19/2011 (B) 12/19/2019 (C) 05/14/2019 (D) 06/19/2019 (E) 06/18/2019 (F) 06/20/2019"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 01/31/2010 (B) 01/06/2010 (C) 02/06/2010 (D) 02/06/1967 (E) 01/27/2010 (F) 02/06/1984",
+    "original_answer": "C",
+    "rewritten_question": "Jaen vstiis the bokotroske on the 16th of ecaeh mnoth srantitg from the Otocber of 2009. It is her 5th viist to the bokotroske today. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 01/31/2010 (B) 01/06/2010 (C) 02/06/2010 (D) 02/06/1967 (E) 01/27/2010 (F) 02/06/1984"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 07/09/1960 (B) 03/09/1960 (C) 01/09/1961 (D) 02/28/1961 (E) 01/09/1963 (F) 01/16/1961",
+    "original_answer": "C",
+    "rewritten_question": "Jnae and Jhon marreid on Jna 2, 1958. It is thier 5-yaer anniversary today. Waht is the dtae one week form today in MM/DD/YYYY? Answer Choices: (A) 07/09/1960 (B) 03/09/1960 (C) 01/09/1961 (D) 02/28/1961 (E) 01/09/1963 (F) 01/16/1961"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 09/16/1923 (B) 10/14/1923 (C) 07/11/1923 (D) 10/06/1923 (E) 10/15/1923 (F) 10/13/1923",
+    "original_answer": "E",
+    "rewritten_question": "Tadyo's mnteieg is rlsecgeeuhd to 11 am towroorm, 10/16/1924. Waht is the daet one yaer ago form tdayo in MM/DD/YYYY? Ansrew Cheoics: (A) 09/16/1923 (B) 10/14/1923 (C) 07/11/1923 (D) 10/06/1923 (E) 10/15/1923 (F) 10/13/1923"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 02/11/1899 (B) 12/03/1898 (C) 01/11/1899 (D) 12/25/1898 (E) 12/31/1898",
+    "original_answer": "E",
+    "rewritten_question": "Tihs is the lsat day of 1899. Waht is the dtae one yaer ago form today in MM/DD/YYYY? Answer Ccoiehs: (A) 02/11/1899 (B) 12/03/1898 (C) 01/11/1899 (D) 12/25/1898 (E) 12/31/1898"
+  },
+  {
+    "original_question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 09/06/2018 (B) 12/08/2018 (C) 12/07/2075 (D) 12/07/2018 (E) 11/30/2018",
+    "original_answer": "D",
+    "rewritten_question": "The fsirt day of 2019 is a Tuedasy, and today is the fsirt Mnoday of 2019. What is the dtae a mnoth ago in MM/DD/YYYY? Ansrew Choiecs: (A) 09/06/2018 (B) 12/08/2018 (C) 12/07/2075 (D) 12/07/2018 (E) 11/30/2018"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/28/1966 (B) 03/03/1966 (C) 03/02/1966 (D) 03/04/1966 (E) 03/24/1966",
+    "original_answer": "B",
+    "rewritten_question": "Tdaoy is the snecod day of the tirdh mtonh of 1966. Waht is the dtae tmroorow in MM/DD/YYYY? Answer Cioches: (A) 02/28/1966 (B) 03/03/1966 (C) 03/02/1966 (D) 03/04/1966 (E) 03/24/1966"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 08/08/2019 (B) 12/08/2019 (C) 12/08/2075 (D) 12/10/2019 (E) 12/08/2022 (F) 12/22/2019",
+    "original_answer": "B",
+    "rewritten_question": "Jane got her jb in 2016. Tydao is her 3-yrae work ayvrersani. She still rememebr that on Dce 2, her scneod day at wrok, she spilled cofeef on her lapotp. Waht is the dtae one wkee from tdoay in MM/DD/YYYY? Answer Choices: (A) 08/08/2019 (B) 12/08/2019 (C) 12/08/2075 (D) 12/10/2019 (E) 12/08/2022 (F) 12/22/2019"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/06/2021 (B) 09/01/2021 (C) 09/01/2098 (D) 09/01/2020 (E) 09/02/2021 (F) 09/07/2021",
+    "original_answer": "B",
+    "rewritten_question": "It was Setp. 1st, 2021 a wkee ago. What is the dtae one wkee ago from today in MM/DD/YYYY? Answer Choices: (A) 12/06/2021 (B) 09/01/2021 (C) 09/01/2098 (D) 09/01/2020 (E) 09/02/2021 (F) 09/07/2021"
+  },
+  {
+    "original_question": "Today is Sep 9, 1909. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 09/16/1909 (B) 09/16/1952 (C) 08/22/1909 (D) 09/16/1876 (E) 10/14/1909 (F) 12/16/1909",
+    "original_answer": "A",
+    "rewritten_question": "Toady is Sep 9, 1909. Waht is the dtae one week form toady in MM/DD/YYYY? Anwser Cchoies: (A) 09/16/1909 (B) 09/16/1952 (C) 08/22/1909 (D) 09/16/1876 (E) 10/14/1909 (F) 12/16/1909"
+  },
+  {
+    "original_question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 10/14/1924 (B) 10/14/2004 (C) 10/14/1935 (D) 09/14/1925 (E) 10/15/1924 (F) 10/22/1924",
+    "original_answer": "A",
+    "rewritten_question": "Tyoda's mtenieg is rseechedlud to 11 am toomrorw, 10/16/1924. What is the dtae yseetrday in MM/DD/YYYY? Answer Choices: (A) 10/14/1924 (B) 10/14/2004 (C) 10/14/1935 (D) 09/14/1925 (E) 10/15/1924 (F) 10/22/1924"
+  },
+  {
+    "original_question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date today in MM/DD/YYYY? Answer Choices: (A) 02/16/1933 (B) 11/30/2009 (C) 02/16/2010 (D) 12/21/2009 (E) 05/24/2010 (F) 02/06/2010",
+    "original_answer": "C",
+    "rewritten_question": "Jane vsiits the boksotre on the 16th of each mothn stitrang from the Octboer of 2009. It is her 5th visti to the boksotre tayod. Waht is the dtae tayod in MM/DD/YYYY? Answer Choices: (A) 02/16/1933 (B) 11/30/2009 (C) 02/16/2010 (D) 12/21/2009 (E) 05/24/2010 (F) 02/06/2010"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 01/04/1961 (B) 01/02/1961 (C) 01/01/1961 (D) 01/03/1964 (E) 01/03/1961 (F) 12/03/1960",
+    "original_answer": "E",
+    "rewritten_question": "Jnae and Jhon maerrid on Jan 2, 1958. It is t hier 5-yera ainnevsrary today. Waht is the d a te 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 01/04/1961 (B) 01/02/1961 (C) 01/01/1961 (D) 01/03/1964 (E) 01/03/1961 (F) 12/03/1960"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 06/21/2002 (B) 10/28/2002 (C) 06/28/2002 (D) 08/25/2002 (E) 06/27/2002 (F) 10/28/2001",
+    "original_answer": "C",
+    "rewritten_question": "Jnae bokoe a flihg for tmororow, Jul 29, 2002. Waht is the dtae a mothn ago in MM/DD/YYYY? Aswner Choicses: (A) 06/21/2002 (B) 10/28/2002 (C) 06/28/2002 (D) 08/25/2002 (E) 06/27/2002 (F) 10/28/2001"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 10/23/1966 (B) 02/02/1966 (C) 02/26/1966 (D) 01/13/1966 (E) 02/23/1966 (F) 02/23/1968",
+    "original_answer": "E",
+    "rewritten_question": "Toayd is the second day of the third month of 1966. Waht is the dtae one week aog from toayd in MM/DD/YYYY? Asnwer Cciohes: (A) 10/23/1966 (B) 02/02/1966 (C) 02/26/1966 (D) 01/13/1966 (E) 02/23/1966 (F) 02/23/1968"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 05/05/2004 (B) 05/10/2004 (C) 05/21/2004 (D) 05/25/2004 (E) 05/11/2004 (F) 04/12/2004",
+    "original_answer": "E",
+    "rewritten_question": "The ceurrnt lcoal tmie is 3:02 pm of 5/4/2004. Waht is the dtae one week form toady in MM/DD/YYYY? Answer Choices: (A) 05/05/2004 (B) 05/10/2004 (C) 05/21/2004 (D) 05/25/2004 (E) 05/11/2004 (F) 04/12/2004"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 02/03/2017 (B) 01/28/2017 (C) 01/21/2017 (D) 11/12/2016 (E) 01/14/2017",
+    "original_answer": "B",
+    "rewritten_question": "Jnae was born on the lsat day of Frbauery in 2001. Tdoay is her 16-year-old birtahdy. Waht is the dtae a mnoth aog in MM/DD/YYYY? Answer Choices: (A) 02/03/2017 (B) 01/28/2017 (C) 01/21/2017 (D) 11/12/2016 (E) 01/14/2017"
+  },
+  {
+    "original_question": "Tomorrow is 11/12/2019. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 11/04/2018 (B) 11/02/2018 (C) 08/25/2018 (D) 11/11/2018 (E) 09/04/2018",
+    "original_answer": "D",
+    "rewritten_question": "Tmrorowo is 11/12/2019. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Asnwer Coicres: (A) 11/04/2018 (B) 11/02/2018 (C) 08/25/2018 (D) 11/11/2018 (E) 09/04/2018"
+  },
+  {
+    "original_question": "It was Sept. 1st, 2021 a week ago. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 10/13/2021 (B) 09/09/2021 (C) 09/22/2021 (D) 10/15/2020 (E) 09/15/2021 (F) 09/05/2021",
+    "original_answer": "E",
+    "rewritten_question": "It was Spt. 1st, 2021 a wkeo ago. What is the dtae one week form today in MM/DD/YYYY? Answer Cichoes: (A) 10/13/2021 (B) 09/09/2021 (C) 09/22/2021 (D) 10/15/2020 (E) 09/15/2021 (F) 09/05/2021"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/03/1961 (B) 01/11/1961 (C) 01/18/1961 (D) 10/14/1960 (E) 01/03/1982 (F) 12/03/1960",
+    "original_answer": "A",
+    "rewritten_question": "Jnae and Jhon mearrid on Jna 2, 1958. It is teirh 5-year ansnreivary tadyo. Waht is the dtae tyrmoworo in MM/DD/YYYY? Answer Choices: (A) 01/03/1961 (B) 01/11/1961 (C) 01/18/1961 (D) 10/14/1960 (E) 01/03/1982 (F) 12/03/1960"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 02/20/2017 (B) 03/17/2017 (C) 03/01/2017 (D) 03/25/2017 (E) 03/01/2076 (F) 03/01/2116",
+    "original_answer": "C",
+    "rewritten_question": "Jnae was born on the lsat day of Feruary in 2001. Tdoay is her 16-year-old birhtday. Waht is the dtae toomrrow in MM/DD/YYYY? Answer Choices: (A) 02/20/2017 (B) 03/17/2017 (C) 03/01/2017 (D) 03/25/2017 (E) 03/01/2076 (F) 03/01/2116"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 11/07/2002 (B) 11/21/2002 (C) 11/30/2002 (D) 09/12/2002 (E) 11/21/2076 (F) 11/15/2002",
+    "original_answer": "B",
+    "rewritten_question": "In the US, Tganskhiving is on the fuorth Thrsduay of Noevmber. Taody is the US Tghanskiving of 2001. Waht is the daet yseterday in MM/DD/YYYY? Answer Choices: (A) 11/07/2002 (B) 11/21/2002 (C) 11/30/2002 (D) 09/12/2002 (E) 11/21/2076 (F) 11/15/2002"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/01/2007 (B) 01/01/1951 (C) 12/18/2006 (D) 01/01/2007 (E) 01/22/2007 (F) 01/01/2096",
+    "original_answer": "D",
+    "rewritten_question": "Tdoay is the fsirt dya of 2007. Waht is the dtae tdoay in MM/DD/YYYY? Answer Chocies: (A) 05/01/2007 (B) 01/01/1951 (C) 12/18/2006 (D) 01/01/2007 (E) 01/22/2007 (F) 01/01/2096"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 01/26/1980 (B) 11/21/2019 (C) 01/19/2020 (D) 01/27/2020 (E) 01/26/2020 (F) 11/15/2019",
+    "original_answer": "E",
+    "rewritten_question": "Tyoda is the pailndrome dyay of 2020, because the MMDYDYYYY format of the dtae is the same bckwads as fowrads. Waht is the dtae one week aog from tyoda in MM/DD/YYYY? Answer Coihces: (A) 01/26/1980 (B) 11/21/2019 (C) 01/19/2020 (D) 01/27/2020 (E) 01/26/2020 (F) 11/15/2019"
+  },
+  {
+    "original_question": "This is the last day of 1899. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 11/30/1899 (B) 01/22/1900 (C) 11/02/1899 (D) 12/30/1899 (E) 01/06/1900 (F) 12/31/1899",
+    "original_answer": "D",
+    "rewritten_question": "Tihs is the lsat day of 1899. Waht is the dtae yretseady in MM/DD/YYYY? Asnwer Chcioes: (A) 11/30/1899 (B) 01/22/1900 (C) 11/02/1899 (D) 12/30/1899 (E) 01/06/1900 (F) 12/31/1899"
+  },
+  {
+    "original_question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 03/19/2002 (B) 11/19/2002 (C) 05/13/2002 (D) 03/26/2002 (E) 03/20/2002",
+    "original_answer": "A",
+    "rewritten_question": "Jnae thuoght tdoay is 3/11/2002, but tdoay is in faact Mar 12, which is 1 day ltrea. Waht is the dtae one week form tdoay in MM/DD/YYYY? Asnwer Coihecs: (A) 03/19/2002 (B) 11/19/2002 (C) 05/13/2002 (D) 03/26/2002 (E) 03/20/2002"
+  },
+  {
+    "original_question": "It is 4/19/1969 today. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 04/19/1968 (B) 04/20/1968 (C) 07/01/1968 (D) 06/19/1967 (E) 05/06/1968 (F) 04/18/1968",
+    "original_answer": "A",
+    "rewritten_question": "It is 4/19/1969 today. What is the dtae one yaer ago from today in MM/DD/YYYY? Answer Cehicoes: (A) 04/19/1968 (B) 04/20/1968 (C) 07/01/1968 (D) 06/19/1967 (E) 05/06/1968 (F) 04/18/1968"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 03/18/2021 (B) 04/01/2021 (C) 03/31/2021 (D) 02/21/2021 (E) 03/22/2021 (F) 04/01/2094",
+    "original_answer": "B",
+    "rewritten_question": "Yeeastrd was April 30, 2021. Waht is the dtae a mnoth ago in MM/DD/YYYY? Asnwer Cioches: (A) 03/18/2021 (B) 04/01/2021 (C) 03/31/2021 (D) 02/21/2021 (E) 03/22/2021 (F) 04/01/2094"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 04/28/2002 (B) 02/13/2002 (C) 04/19/2002 (D) 04/24/2002 (E) 05/20/2002 (F) 04/29/2002",
+    "original_answer": "F",
+    "rewritten_question": "Mya 6, 1992 is lkie yretseday to Jnae, but taht is aulclaty ten yaers ago. Waht is the dtae one week ago form tdoay in MM/DD/YYYY? Ansewr Ciohces: (A) 04/28/2002 (B) 02/13/2002 (C) 04/19/2002 (D) 04/24/2002 (E) 05/20/2002 (F) 04/29/2002"
+  },
+  {
+    "original_question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 08/12/2045 (B) 08/12/2020 (C) 08/12/2093 (D) 08/20/2020 (E) 07/29/2020 (F) 09/06/2020",
+    "original_answer": "B",
+    "rewritten_question": "Jnae qeuitd her job on Mra 20, 2020. 176 dyas have psased scnie tehn. Waht is the dtae a monht ago in MM/DD/YYYY? Answer Choices: (A) 08/12/2045 (B) 08/12/2020 (C) 08/12/2093 (D) 08/20/2020 (E) 07/29/2020 (F) 09/06/2020"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 04/21/2019 (B) 05/28/2019 (C) 06/25/2019 (D) 06/26/2019 (E) 06/24/2019 (F) 07/04/2019",
+    "original_answer": "C",
+    "rewritten_question": "Jnae tihnks toady is 6/18/2019, but Jhon tihnks toady is 6/19/2019. Jnae is cerroct. Waht is the dtae oen week form toady in MM/DD/YYYY? Ansewr Ciohces: (A) 04/21/2019 (B) 05/28/2019 (C) 06/25/2019 (D) 06/26/2019 (E) 06/24/2019 (F) 07/04/2019"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 08/10/2003 (B) 08/08/2003 (C) 06/01/2003 (D) 04/07/2003 (E) 08/14/2003 (F) 08/07/2003",
+    "original_answer": "F",
+    "rewritten_question": "Tyoda is 9/7. Jnae is whating NFL 2003. Waht is the dtae a mnoth ago in MM/DD/YYYY? Asnwer Choiecs: (A) 08/10/2003 (B) 08/08/2003 (C) 06/01/2003 (D) 04/07/2003 (E) 08/14/2003 (F) 08/07/2003"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 03/10/1985 (B) 04/13/1985 (C) 04/10/1985 (D) 04/12/1986 (E) 05/13/1985 (F) 04/07/1985",
+    "original_answer": "A",
+    "rewritten_question": "Tyado is Apr 10, 1985. Jnae's anointmentp will be 3 dyas later. Waht is the dtae a monta ago in MM/DD/YYYY? Answer Choices: (A) 03/10/1985 (B) 04/13/1985 (C) 04/10/1985 (D) 04/12/1986 (E) 05/13/1985 (F) 04/07/1985"
+  },
+  {
+    "original_question": "Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 04/15/2021 (B) 04/24/2021 (C) 04/23/2021 (D) 06/05/2021 (E) 04/19/2021 (F) 05/15/2021",
+    "original_answer": "B",
+    "rewritten_question": "Yetesrday was Auiprl 30, 2021. Waht is the daet one wekec ago from toad'y in MM/DD/YYYY? Awnser Choiecs: (A) 04/15/2021 (B) 04/24/2021 (C) 04/23/2021 (D) 06/05/2021 (E) 04/19/2021 (F) 05/15/2021"
+  },
+  {
+    "original_question": "Today is 9/7. Jane is watching NFL 2003. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 09/05/2003 (B) 10/23/2003 (C) 09/06/2102 (D) 09/21/2003 (E) 09/06/2003",
+    "original_answer": "E",
+    "rewritten_question": "Tdyoa is 9/7. Jnae is wathing NFL 2003. Waht is the dtae ysreedyta in MM/DD/YYYY? Answer Choices: (A) 09/05/2003 (B) 10/23/2003 (C) 09/06/2102 (D) 09/21/2003 (E) 09/06/2003"
+  },
+  {
+    "original_question": "The day before yesterday was 11/23/1933. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 12/16/1933 (B) 11/11/1933 (C) 11/17/1933 (D) 11/18/1933 (E) 11/13/1933 (F) 11/04/1933",
+    "original_answer": "D",
+    "rewritten_question": "Teh dya before yeterdsay was 11/23/1933. Waht is the dtae one week aog fomr today in MM/DD/YYYY? Answer Choices: (A) 12/16/1933 (B) 11/11/1933 (C) 11/17/1933 (D) 11/18/1933 (E) 11/13/1933 (F) 11/04/1933"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 03/02/1966 (B) 03/03/1965 (C) 03/03/2021 (D) 03/04/1966 (E) 03/03/1966 (F) 04/03/1966",
+    "original_answer": "E",
+    "rewritten_question": "Tdayo is the snceod day of the third mtonh of 1966. What is the dtae 24 huors ltear in MM/DD/YYYY? Answer Choices: (A) 03/02/1966 (B) 03/03/1965 (C) 03/03/2021 (D) 03/04/1966 (E) 03/03/1966 (F) 04/03/1966"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 06/22/2019 (B) 06/20/2028 (C) 06/21/2019 (D) 06/20/2019 (E) 06/20/1921 (F) 06/29/2019",
+    "original_answer": "D",
+    "rewritten_question": "Jnae thniks toady is 6/18/2019, but Jnoh thniks toady is 6/19/2019. Jnoh is crorce.t Waht is the dtae 24 huors laetr in MM/DD/YYYY? Asnwer Cicho.es: (A) 06/22/2019 (B) 06/20/2028 (C) 06/21/2019 (D) 06/20/2019 (E) 06/20/1921 (F) 06/29/2019"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 02/28/1992 (B) 03/31/2016 (C) 02/28/2015 (D) 02/28/2016 (E) 03/06/2016 (F) 03/27/2016",
+    "original_answer": "D",
+    "rewritten_question": "Jnae was born on the lsat day of Feubruary in 2001. Tdoay is her 16-year-old bthiardy. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 02/28/1992 (B) 03/31/2016 (C) 02/28/2015 (D) 02/28/2016 (E) 03/06/2016 (F) 03/27/2016"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/16/2003 (B) 08/24/2002 (C) 11/23/2002 (D) 11/22/2002 (E) 09/04/2002 (F) 11/21/2002",
+    "original_answer": "D",
+    "rewritten_question": "In the US, Tgniknsghaiv is on the fuorth Tdrsuhay of Nmvoeber. Tdoay is the US Tgniknsghaiv of 2001. Wtha is the dtae tdoay in MM/DD/YYYY? Answer Choices: (A) 01/16/2003 (B) 08/24/2002 (C) 11/23/2002 (D) 11/22/2002 (E) 09/04/2002 (F) 11/21/2002"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 07/03/1972 (B) 10/28/1971 (C) 06/14/1972 (D) 06/28/1972 (E) 06/23/1972 (F) 09/28/1972",
+    "original_answer": "D",
+    "rewritten_question": "Jane scheduled 3 aipontemnts with 5 ploepe for tomorrow (Tue, 7/9/1972). What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 07/03/1972 (B) 10/28/1971 (C) 06/14/1972 (D) 06/28/1972 (E) 06/23/1972 (F) 09/28/1972"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 04/27/2003 (B) 04/27/2004 (C) 04/28/2004 (D) 05/18/2004 (E) 05/27/2004 (F) 04/24/2004",
+    "original_answer": "B",
+    "rewritten_question": "The cuerrnt lcoal time is 3:02 pm of 5/4/2004. What is the dtate one week ago from tdoay in MM/DD/YYYY? Answer Choices: (A) 04/27/2003 (B) 04/27/2004 (C) 04/28/2004 (D) 05/18/2004 (E) 05/27/2004 (F) 04/24/2004"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date today in MM/DD/YYYY? Answer Choices: (A) 06/08/2019 (B) 06/19/2019 (C) 07/09/2019 (D) 07/03/2019 (E) 09/23/2019 (F) 06/18/2019",
+    "original_answer": "F",
+    "rewritten_question": "Jane tnhiks today is 6/18/2019, but John tnhiks today is 6/19/2019. Jane is corcetr. What is the date today in MM/DD/YYYY? Answer Choices: (A) 06/08/2019 (B) 06/19/2019 (C) 07/09/2019 (D) 07/03/2019 (E) 09/23/2019 (F) 06/18/2019"
+  },
+  {
+    "original_question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 02/03/2100 (B) 02/03/1982 (C) 02/04/2020 (D) 02/03/2020 (E) 01/02/2020 (F) 02/03/2094",
+    "original_answer": "D",
+    "rewritten_question": "Tyoda is the palindrome day of 2020, because the MMDDYYYY format of the dtae is the smae backwards as forwards. Waht is the dtae 24 houres later in MM/DD/YYYY? Answer Cehocios: (A) 02/03/2100 (B) 02/03/1982 (C) 02/04/2020 (D) 02/03/2020 (E) 01/02/2020 (F) 02/03/2094"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 01/08/2010 (B) 02/05/2010 (C) 01/22/2010 (D) 01/23/2010 (E) 01/21/2010 (F) 10/29/2009",
+    "original_answer": "C",
+    "rewritten_question": "Yeedraset, Jan 21, 2011, Jnae ate 2 pzzias and 5 wgnis. Waht is the daet one yaer ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 01/08/2010 (B) 02/05/2010 (C) 01/22/2010 (D) 01/23/2010 (E) 01/21/2010 (F) 10/29/2009"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 12/02/2019 (B) 12/01/2019 (C) 12/02/1950 (D) 08/02/2020 (E) 01/02/2020 (F) 11/18/2019",
+    "original_answer": "A",
+    "rewritten_question": "Jane got her jbco in 2016. Tyoda is her 3-year wrok anniversary. She still rmeemebr that on Dec 2, her sncoed day at wrok, she spilled cofefe on her lactop. What is the date tmororow in MM/DD/YYYY? Answer Choices: (A) 12/02/2019 (B) 12/01/2019 (C) 12/02/1950 (D) 08/02/2020 (E) 01/02/2020 (F) 11/18/2019"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 03/26/1966 (B) 02/22/1966 (C) 12/09/1965 (D) 03/02/1966 (E) 03/28/1966 (F) 03/09/1966",
+    "original_answer": "F",
+    "rewritten_question": "Tyoda is the scendoc day of the thidrm month of 1966. What is the date one week from tyoda in MM/DD/YYYY? Answer Choices: (A) 03/26/1966 (B) 02/22/1966 (C) 12/09/1965 (D) 03/02/1966 (E) 03/28/1966 (F) 03/09/1966"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 08/04/1997 (B) 12/04/1996 (C) 08/04/1901 (D) 08/04/2004 (E) 08/01/1997 (F) 08/07/1997",
+    "original_answer": "A",
+    "rewritten_question": "Tyod, 8/3/1997, is a dyay thta we wlil never fogret. Waht is the data tomorow in MM/DD/YYYY? Answer Choices: (A) 08/04/1997 (B) 12/04/1996 (C) 08/04/1901 (D) 08/04/2004 (E) 08/01/1997 (F) 08/07/1997"
+  },
+  {
+    "original_question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 06/08/1972 (B) 06/07/1972 (C) 12/08/1971 (D) 06/08/2034 (E) 06/22/1972 (F) 06/08/2059",
+    "original_answer": "A",
+    "rewritten_question": "Jnae scheduleed 3 apiontmetns with 5 polepe for toomrrow (Tues, 7/9/1972). Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 06/08/1972 (B) 06/07/1972 (C) 12/08/1971 (D) 06/08/2034 (E) 06/22/1972 (F) 06/08/2059"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 05/13/2019 (B) 05/18/2019 (C) 06/17/2019 (D) 06/08/2019 (E) 05/20/2019 (F) 06/17/2063",
+    "original_answer": "C",
+    "rewritten_question": "Jna.e tihnks todya is 6/18/2019, but Jnoh tihnks todya is 6/19/2019. Jnae is co.rrect. Waht is the dt.ae yseterday in MM/DD/YYYY? Ans.wer Choic.es: (A) 05/13/2019 (B) 05/18/2019 (C) 06/17/2019 (D) 06/08/2019 (E) 05/20/2019 (F) 06/17/2063"
+  },
+  {
+    "original_question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date today in MM/DD/YYYY? Answer Choices: (A) 01/12/2011 (B) 01/23/2011 (C) 01/08/2011 (D) 01/22/2086 (E) 01/22/2011 (F) 01/22/1990",
+    "original_answer": "E",
+    "rewritten_question": "Yseterady, Jna 21, 2011, Jnae ate 2 pizsza and 5 wnigs. Waht is the dtae toady in MM/DD/YYYY? Answer Choices: (A) 01/12/2011 (B) 01/23/2011 (C) 01/08/2011 (D) 01/22/2086 (E) 01/22/2011 (F) 01/22/1990"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 12/31/2007 (B) 12/27/2007 (C) 01/01/2008 (D) 02/03/2008 (E) 01/02/2008",
+    "original_answer": "C",
+    "rewritten_question": "Jnae and Jhon mairred on Jan 2, 1958. Tdoyay is teirh golden wdeidng anniversary. Waht is teh dtae yseterday in MM/DD/YYYY? Answer Choices: (A) 12/31/2007 (B) 12/27/2007 (C) 01/01/2008 (D) 02/03/2008 (E) 01/02/2008"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 11/22/2056 (B) 11/27/2001 (C) 11/21/2001 (D) 11/26/2001 (E) 11/22/2001 (F) 11/22/1923",
+    "original_answer": "E",
+    "rewritten_question": "Ih the US, Tginkhivansg is on the fourth Tdruhsady of Nmvoeber. Tdaoy is the US Tknigshvaing of 2001. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Answer Choices: (A) 11/22/2056 (B) 11/27/2001 (C) 11/21/2001 (D) 11/26/2001 (E) 11/22/2001 (F) 11/22/1923"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/06/2002 (B) 05/06/1935 (C) 05/06/1912 (D) 05/06/1964 (E) 05/06/2095 (F) 08/06/2002",
+    "original_answer": "A",
+    "rewritten_question": "My rewritten question using the specified perturbation strategy:\n\nMay 6, 1992 is lkie yesetrday to Jane, but that is actlually ten years ago. What is the date today in MM/DD/YYYY? Answer Choices: (A) 05/06/2002 (B) 05/06/1935 (C) 05/06/1912 (D) 05/06/1964 (E) 05/06/2095 (F) 08/06/2002"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 09/03/1943 (B) 04/11/1943 (C) 06/04/1943 (D) 03/09/1943 (E) 08/03/1942 (F) 06/03/1943",
+    "original_answer": "F",
+    "rewritten_question": "The conerct was sceuhledd to be on 06/01/1943, but was deleyad by one day to today. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Cioches: (A) 09/03/1943 (B) 04/11/1943 (C) 06/04/1943 (D) 03/09/1943 (E) 08/03/1942 (F) 06/03/1943"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 07/20/2002 (B) 11/21/2001 (C) 10/21/2002 (D) 07/21/2002 (E) 10/17/2002 (F) 08/18/2002",
+    "original_answer": "D",
+    "rewritten_question": "Jane bkooed a fhgilt for tmmorow, Jul 29, 2002. What is the dtae one week aog from tdoay in MM/DD/YYYY? Answer Cciohes: (A) 07/20/2002 (B) 11/21/2001 (C) 10/21/2002 (D) 07/21/2002 (E) 10/17/2002 (F) 08/18/2002"
+  },
+  {
+    "original_question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 05/28/2002 (B) 04/07/2003 (C) 04/16/2002 (D) 05/07/2036 (E) 05/07/2002",
+    "original_answer": "E",
+    "rewritten_question": "My 6, 1992 is lkie ysterdeay to Jane, but that is ayculatll ten yeras ago. Waht is the dtae trmooorw in MM/DD/YYYY? Answer Choices: (A) 05/28/2002 (B) 04/07/2003 (C) 04/16/2002 (D) 05/07/2036 (E) 05/07/2002"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 12/23/1915 (B) 12/22/1960 (C) 10/09/1960 (D) 12/23/1960 (E) 12/30/1960 (F) 12/23/2003",
+    "original_answer": "D",
+    "rewritten_question": "Jane and John maerid on Jan 2, 1958. It is their 5-yera ayvrenarsni today. What is the daet 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 12/23/1915 (B) 12/22/1960 (C) 10/09/1960 (D) 12/23/1960 (E) 12/30/1960 (F) 12/23/2003"
+  },
+  {
+    "original_question": "The current local time is 3:02 pm of 5/4/2004. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 04/25/2004 (B) 05/15/2004 (C) 04/24/2004 (D) 04/10/2004 (E) 11/24/2003 (F) 04/24/2023",
+    "original_answer": "C",
+    "rewritten_question": "Teh cienrrut lolac tmie is 3:02 pm of 5/4/2004. Waht is teh dtae 10 dyas ago in MM/DD/YYYY? Awnser Cchoies: (A) 04/25/2004 (B) 05/15/2004 (C) 04/24/2004 (D) 04/10/2004 (E) 11/24/2003 (F) 04/24/2023"
+  },
+  {
+    "original_question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 01/01/1958 (B) 02/01/1961 (C) 11/01/1960 (D) 04/09/1961 (E) 01/01/1961 (F) 01/01/2003",
+    "original_answer": "E",
+    "rewritten_question": "Jaen and Jhon mrai edon Jna 2, 1958. It is tehir 5-yaer anriversary tdoay. Waht is the dtae yseterday in MM/DD/YYYY? Answer Choices: (A) 01/01/1958 (B) 02/01/1961 (C) 11/01/1960 (D) 04/09/1961 (E) 01/01/1961 (F) 01/01/2003"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date today in MM/DD/YYYY? Answer Choices: (A) 08/18/2002 (B) 07/16/2002 (C) 10/09/2002 (D) 09/11/2002 (E) 11/28/2002 (F) 07/28/2002",
+    "original_answer": "F",
+    "rewritten_question": "Jane bkoeod a flhgit for towomror, Jul 29, 2002. Waht is the dtae today in MM/DD/YYYY? Anwser Cihceos: (A) 08/18/2002 (B) 07/16/2002 (C) 10/09/2002 (D) 09/11/2002 (E) 11/28/2002 (F) 07/28/2002"
+  },
+  {
+    "original_question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 08/04/2019 (B) 11/01/2089 (C) 09/06/2019 (D) 11/01/2019 (E) 11/01/1933 (F) 11/02/2019",
+    "original_answer": "D",
+    "rewritten_question": "Jnae got her jbo in 2016. Tdoay is her 3-yaer wrok anniversary. She sltil rmeeebmr taht on Dce 2, her snceod dya at wrok, she spillde cofeef on her laptpo. Waht is the dtae a mnoth aoog in MM/DD/YYYY? Answer Cichoess: (A) 08/04/2019 (B) 11/01/2089 (C) 09/06/2019 (D) 11/01/2019 (E) 11/01/1933 (F) 11/02/2019"
+  },
+  {
+    "original_question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 04/13/1985 (B) 04/11/1985 (C) 04/07/1975 (D) 04/12/1987 (E) 04/12/1986 (F) 04/10/1985",
+    "original_answer": "B",
+    "rewritten_question": "Tyoda is Apr 10, 1985. Jnae's aoipptment wlil be 3 dyas ltaer. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 04/13/1985 (B) 04/11/1985 (C) 04/07/1975 (D) 04/12/1987 (E) 04/12/1986 (F) 04/10/1985"
+  },
+  {
+    "original_question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 11/13/2002 (B) 11/12/2002 (C) 11/26/2002 (D) 08/18/2002 (E) 11/19/2002 (F) 11/12/2099",
+    "original_answer": "B",
+    "rewritten_question": "In the US, Tgaikhnvsinvg is on the fturho Tuhsdary of Nboevmer. Toayd is the US Tgaikhnvsinvg of 2001. What is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 11/13/2002 (B) 11/12/2002 (C) 11/26/2002 (D) 08/18/2002 (E) 11/19/2002 (F) 11/12/2099"
+  },
+  {
+    "original_question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/04/1987 (B) 12/06/1986 (C) 01/03/2035 (D) 02/03/1986 (E) 01/03/1987 (F) 01/09/1987",
+    "original_answer": "E",
+    "rewritten_question": "Ih the UK, peepl usually ptuo the day before the mothn wehn formatting the date. Therefore, todya is 02/01/1987 to them. Whta is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 01/04/1987 (B) 12/06/1986 (C) 01/03/2035 (D) 02/03/1986 (E) 01/03/1987 (F) 01/09/1987"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date yesterday in MM/DD/YYYY? Answer Choices: (A) 12/31/1937 (B) 09/23/1938 (C) 12/24/1937 (D) 12/23/1937 (E) 12/23/1896 (F) 01/06/1938",
+    "original_answer": "D",
+    "rewritten_question": "Tyoday is Csurhtimsa Eve of 1937. Waht is the dtate yseterday in MM/DD/YYYY? Answer Choices: (A) 12/31/1937 (B) 09/23/1938 (C) 12/24/1937 (D) 12/23/1937 (E) 12/23/1896 (F) 01/06/1938"
+  },
+  {
+    "original_question": "Today is the last day of the first quarter of 2008. What is the date tomorrow in MM/DD/YYYY? Answer Choices: (A) 03/31/2008 (B) 09/01/2008 (C) 03/14/2008 (D) 04/01/2058 (E) 04/09/2008 (F) 04/01/2008",
+    "original_answer": "F",
+    "rewritten_question": "Tydoa is the lats day of the frist qruater of 2008. Waht is the dtate tmorrow in MM/DD/YYYY? Answer Choices: (A) 03/31/2008 (B) 09/01/2008 (C) 03/14/2008 (D) 04/01/2058 (E) 04/09/2008 (F) 04/01/2008"
+  },
+  {
+    "original_question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one year ago from today in MM/DD/YYYY? Answer Choices: (A) 07/03/1942 (B) 09/02/1942 (C) 06/30/1942 (D) 06/09/1942 (E) 06/02/1942 (F) 06/23/1942",
+    "original_answer": "E",
+    "rewritten_question": "Teh cnocret was scehduled to be on 06/01/1943, but was dealyed by one day to tdoay. Waht is the dtae one yaer ago form tdoay in MM/DD/YYYY? Ansewr Chocies: (A) 07/03/1942 (B) 09/02/1942 (C) 06/30/1942 (D) 06/09/1942 (E) 06/02/1942 (F) 06/23/1942"
+  },
+  {
+    "original_question": "Today, 8/3/1997, is a day that we will never forget. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 05/01/1997 (B) 08/04/1935 (C) 08/04/2043 (D) 08/04/1978 (E) 08/04/1997 (F) 08/07/1997",
+    "original_answer": "E",
+    "rewritten_question": "Tyoad, 8/3/1997, is a dya taht we wlil neevr fogret. Waht is the dtae 24 hruos ltaer in MM/DD/YYYY? Answer Choices: (A) 05/01/1997 (B) 08/04/1935 (C) 08/04/2043 (D) 08/04/1978 (E) 08/04/1997 (F) 08/07/1997"
+  },
+  {
+    "original_question": "Today is Christmas Eve of 1937. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 12/28/1937 (B) 12/27/1937 (C) 12/31/1937 (D) 12/31/1938 (E) 12/03/1937",
+    "original_answer": "C",
+    "rewritten_question": "Tdoay is Csithramas Eve of 1937. Waht is the dtae one week form todya in MM/DD/YYYY? Answer Choices: (A) 12/28/1937 (B) 12/27/1937 (C) 12/31/1937 (D) 12/31/1938 (E) 12/03/1937"
+  },
+  {
+    "original_question": "Today is the first day of 2007. What is the date a month ago in MM/DD/YYYY? Answer Choices: (A) 12/01/1948 (B) 12/01/2006 (C) 05/01/2007 (D) 11/10/2006 (E) 12/01/2053 (F) 08/01/2007",
+    "original_answer": "B",
+    "rewritten_question": "Tyoday is the fsrit day of 2007. Waht is the dtae a mnoth ago in MM/DD/YYYY? Answer Choices: (A) 12/01/1948 (B) 12/01/2006 (C) 05/01/2007 (D) 11/10/2006 (E) 12/01/2053 (F) 08/01/2007"
+  },
+  {
+    "original_question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 07/29/1947 (B) 04/24/2002 (C) 07/30/2002 (D) 07/29/2001 (E) 07/29/2002 (F) 07/28/2002",
+    "original_answer": "E",
+    "rewritten_question": "Jane booekd a filght for tmoororw, Jlu 29, 2002. Waht is the dtae 24 houres letaer in MM/DD/YYYY? Answer Choices: (A) 07/29/1947 (B) 04/24/2002 (C) 07/30/2002 (D) 07/29/2001 (E) 07/29/2002 (F) 07/28/2002"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week from today in MM/DD/YYYY? Answer Choices: (A) 08/26/2019 (B) 06/19/2019 (C) 06/26/2019 (D) 06/24/2019 (E) 07/03/2019 (F) 06/25/2019",
+    "original_answer": "C",
+    "rewritten_question": "Jnae thknis today is 6/18/2019, but Jhon thniks today is 6/19/2019. Jhon is cerocrt. Waht is the dtae one week from today in MM/DD/YYYY? Asnwer Ciohces: (A) 08/26/2019 (B) 06/19/2019 (C) 06/26/2019 (D) 06/24/2019 (E) 07/03/2019 (F) 06/25/2019"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week ago from today in MM/DD/YYYY? Answer Choices: (A) 06/11/2019 (B) 06/12/2019 (C) 06/12/2022 (D) 08/25/2019 (E) 03/24/2019 (F) 06/13/2019",
+    "original_answer": "B",
+    "rewritten_question": "Jnae tnhkis tdoay is 6/18/2019, but Jhon tnhkis tdoay is 6/19/2019. Jhon is coerrct. Waht is the dtae one wkee ago from tdoay in MM/DD/YYYY? Ansewr Chcioes: (A) 06/11/2019 (B) 06/12/2019 (C) 06/12/2022 (D) 08/25/2019 (E) 03/24/2019 (F) 06/13/2019"
+  },
+  {
+    "original_question": "Today is the second day of the third month of 1966. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 02/20/1966 (B) 02/20/1887 (C) 02/20/1965 (D) 02/20/2022 (E) 02/13/1966",
+    "original_answer": "A",
+    "rewritten_question": "Tyoda is the second dya of the third mnoth of 1966. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Answer Choices: (A) 02/20/1966 (B) 02/20/1887 (C) 02/20/1965 (D) 02/20/2022 (E) 02/13/1966"
+  },
+  {
+    "original_question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 02/01/2017 (B) 08/01/2015 (C) 02/20/2016 (D) 03/01/2016 (E) 06/06/2016",
+    "original_answer": "D",
+    "rewritten_question": "Jnae was bownr on the lsat day of Febraury in 2000. Tdoay is her 16-yaer-old birtdhay. Waht is the dtae 24 huors laetr in MM/DD/YYYY? Answer Choices: (A) 02/01/2017 (B) 08/01/2015 (C) 02/20/2016 (D) 03/01/2016 (E) 06/06/2016"
+  },
+  {
+    "original_question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 10 days ago in MM/DD/YYYY? Answer Choices: (A) 06/09/2019 (B) 06/15/2019 (C) 05/19/2019 (D) 08/09/2018 (E) 06/08/2019 (F) 06/09/2044",
+    "original_answer": "A",
+    "rewritten_question": "Jnae tnihks toady is 6/18/2019, but Jhon tnihks toady is 6/19/2019. Jhon is cerroct. Waht is the dtae 10 dyas ago in MM/DD/YYYY? Asnwer Cohiices: (A) 06/09/2019 (B) 06/15/2019 (C) 05/19/2019 (D) 08/09/2018 (E) 06/08/2019 (F) 06/09/2044"
+  }
+]
