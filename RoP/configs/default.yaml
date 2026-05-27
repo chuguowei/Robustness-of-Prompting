@@ -1,0 +1,31 @@
+# configs/default.yaml — Runtime configuration for RoP experiments
+
+# --- LLM Settings ---
+llm:
+  optimizer_model: "gpt-4o"          # Used for APE instruction generation & correction
+  evaluator_model: "gpt-3.5-turbo"   # Used for final answer generation
+  temperature: 0
+  max_retries: 3
+  retry_interval: 5                  # seconds between retries
+  request_interval: 1                # seconds between API calls (rate limiting)
+
+# --- APE Settings ---
+ape:
+  num_prompts: 50
+  eval_rounds: 20
+  prompt_gen_batch_size: 200
+  eval_batch_size: 500
+  prompt_gen_mode: "forward"
+  prompt_gen_split_ratio: 0.5        # fraction of data used for prompt generation
+  max_prompt_gen_samples: 100        # cap on prompt generation samples
+
+# --- Perturbation Settings ---
+perturbation:
+  # Choices: EC, SC, WOO, HW, UIC
+  types: ["EC", "SC", "WOO", "HW", "UIC"]
+  random_seed: 1
+
+# --- Pipeline Settings ---
+pipeline:
+  max_samples: null                  # null = use full dataset; set int to limit
+  save_intermediate: true            # save outputs after each stage
